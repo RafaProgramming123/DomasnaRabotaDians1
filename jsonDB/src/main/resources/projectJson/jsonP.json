@@ -1,0 +1,8746 @@
+[ {
+  "type" : "node",
+  "id" : 172348137,
+  "lat" : 42.005709,
+  "lon" : 21.4174425,
+  "tags" : {
+    "name" : "Природонаучен Музеј",
+    "tourism" : "museum",
+    "name:en" : "Macedonian Museum of Natural History",
+    "wikipedia" : "mk:Природонаучен музеј на Македонија"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 367853384,
+  "lat" : 41.9936737,
+  "lon" : 21.433319,
+  "tags" : {
+    "historic" : "monument",
+    "artist" : "Кристина Пауновска",
+    "name" : "Питу Гули",
+    "description" : "Историско значење Питу Гули (1865 - 12 август 1903) — македонски револуционер со влашко потекло, учесник во македонското револуционерно движење, член и војвода на Македонската револуционерна организација.\nСовременици сведочат дека Питу Гули имал завршено"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 367860262,
+  "lat" : 42.0032812,
+  "lon" : 21.4233737,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Гоце Делчев"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 369750026,
+  "lat" : 42.0008716,
+  "lon" : 21.4338778,
+  "tags" : {
+    "historic" : "city_gate",
+    "name" : "Влез на Скопското кале",
+    "name:en" : "Skopje Fortress Gate"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 373488269,
+  "lat" : 42.0195738,
+  "lon" : 20.960153,
+  "tags" : {
+    "historic" : "ruins",
+    "name" : "Тетовско Кале",
+    "name:en" : "Tetovo Fortress",
+    "wikipedia" : "mk:Тетовско кале"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 382646189,
+  "lat" : 41.4336787,
+  "lon" : 22.0195297,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 390757432,
+  "lat" : 41.1151632,
+  "lon" : 20.7912433,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 390757439,
+  "lat" : 41.1155576,
+  "lon" : 20.7914836,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Лихнид",
+    "wikipedia" : "it:Lychnidos"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 410115785,
+  "lat" : 41.3880768,
+  "lon" : 21.2273776,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Слива"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 414714609,
+  "lat" : 41.5113691,
+  "lon" : 21.6904592,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 466248928,
+  "lat" : 42.0347813,
+  "lon" : 22.3551848,
+  "tags" : {
+    "name" : "Хотел Изгрев",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 470410033,
+  "lat" : 42.184771,
+  "lon" : 21.127279,
+  "tags" : {
+    "name" : "Љуботен",
+    "tourism" : "alpine_hut",
+    "name:en" : "Ljuboten"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 473902990,
+  "lat" : 42.2916094,
+  "lon" : 22.3507979,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "WWII Battle - 17th Macedonian Brigade ws Bulgarian army"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 478699817,
+  "lat" : 41.7077548,
+  "lon" : 22.8566138,
+  "tags" : {
+    "website" : "http://www.berovo.gov.mk/index.php?option=com_content&view=article&id=76&Itemid=117",
+    "name" : "Музеј на град Берово",
+    "tourism" : "museum",
+    "name:en" : "Berovo Town Museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 495558836,
+  "lat" : 41.1776616,
+  "lon" : 20.679835,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Споменик на Револуцијата",
+    "name:en" : "Monument of the Revolution"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 529811458,
+  "lat" : 41.4343634,
+  "lon" : 22.0163228,
+  "tags" : {
+    "name" : "Музеј Галерија Кавадарци",
+    "tourism" : "museum",
+    "name:en" : "Muzej Galerija Kavadarci"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 534925163,
+  "lat" : 41.112361,
+  "lon" : 20.7961416,
+  "tags" : {
+    "website" : "http://muzejohrid.mk/en/house-of-robev-family",
+    "name" : "Куќа на Робевци",
+    "tourism" : "museum",
+    "name:en" : "Robev Family House"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 548009375,
+  "lat" : 41.9654096,
+  "lon" : 21.3950771,
+  "tags" : {
+    "name" : "Планинарски дом „Даре Џамбаз“",
+    "tourism" : "alpine_hut",
+    "name:en" : "Dare Dzhambaz"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 874492834,
+  "lat" : 41.4360595,
+  "lon" : 21.1938677,
+  "tags" : {
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 874493225,
+  "lat" : 41.4362042,
+  "lon" : 21.1926768,
+  "tags" : {
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 908273421,
+  "lat" : 41.9959035,
+  "lon" : 21.4314474,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Споменик на Александар Македонски",
+    "tourism" : "artwork",
+    "name:en" : "Statue of Alexander the Great",
+    "wikipedia" : "mk:Воин на коњ (Скопје)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1234758726,
+  "lat" : 41.7107367,
+  "lon" : 22.8518197,
+  "tags" : {
+    "name" : "На Филип Кашчата",
+    "tourism" : "chalet"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1272898175,
+  "lat" : 41.8841902,
+  "lon" : 22.5049622,
+  "tags" : {
+    "name" : "Museum Teracotta",
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1310339037,
+  "lat" : 41.363211,
+  "lon" : 22.9650942,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "5"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1452854994,
+  "lat" : 41.6346281,
+  "lon" : 20.5620379,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Lukov"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1475328742,
+  "lat" : 42.0586697,
+  "lon" : 21.3527926,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Rimska crkva"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1475331129,
+  "lat" : 42.0843452,
+  "lon" : 21.3548716,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Давина Кула",
+    "name:en" : "Davina Kula"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1475333181,
+  "lat" : 42.0587494,
+  "lon" : 21.2786993,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Голема Кула - Кучково"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1475333182,
+  "lat" : 42.0585741,
+  "lon" : 21.2844339,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Мала Кула - Кучково"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141331,
+  "lat" : 41.3534717,
+  "lon" : 22.9655541,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "4"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141343,
+  "lat" : 41.3649798,
+  "lon" : 22.964952,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "6"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141345,
+  "lat" : 41.3667003,
+  "lon" : 22.9645721,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "7"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141347,
+  "lat" : 41.3682443,
+  "lon" : 22.9643552,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "8"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141348,
+  "lat" : 41.3692174,
+  "lon" : 22.9640182,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "9"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141349,
+  "lat" : 41.3704535,
+  "lon" : 22.9637614,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "10"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141350,
+  "lat" : 41.371345,
+  "lon" : 22.963565,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "11"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141351,
+  "lat" : 41.3721284,
+  "lon" : 22.9631755,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "12"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141352,
+  "lat" : 41.3728977,
+  "lon" : 22.9630541,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "13"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141353,
+  "lat" : 41.3739433,
+  "lon" : 22.9628253,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "14"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141354,
+  "lat" : 41.3755256,
+  "lon" : 22.9632889,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "15"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141357,
+  "lat" : 41.3786524,
+  "lon" : 22.9621967,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "16"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141363,
+  "lat" : 41.3839589,
+  "lon" : 22.9628726,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "19"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141367,
+  "lat" : 41.3859009,
+  "lon" : 22.9631941,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "20"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141373,
+  "lat" : 41.3891975,
+  "lon" : 22.9642834,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "21"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141381,
+  "lat" : 41.3931081,
+  "lon" : 22.9667134,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "22"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141385,
+  "lat" : 41.3964028,
+  "lon" : 22.966126,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "25"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141398,
+  "lat" : 41.4070803,
+  "lon" : 22.9615881,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "27"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141411,
+  "lat" : 41.4174975,
+  "lon" : 22.9520216,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "28"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612141458,
+  "lat" : 41.4400834,
+  "lon" : 22.9746504,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "30"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612143468,
+  "lat" : 42.1102442,
+  "lon" : 22.5899869,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "Куцолиница / 86"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612143496,
+  "lat" : 42.1119645,
+  "lon" : 22.5770819,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "87"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612143672,
+  "lat" : 42.1551091,
+  "lon" : 22.5104573,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "90"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1612155052,
+  "lat" : 42.3089612,
+  "lon" : 22.3705411,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "Китка"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1696045002,
+  "lat" : 42.1580093,
+  "lon" : 22.5162744,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "Руен",
+    "name:en" : "Ruen",
+    "wikipedia" : "bg:Руен"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1708412126,
+  "lat" : 42.1355189,
+  "lon" : 21.7200501,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Zena"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1734593430,
+  "lat" : 42.0766913,
+  "lon" : 21.398848,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Gradiste kaj s.Brazda"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1786613380,
+  "lat" : 41.0330959,
+  "lon" : 21.2190362,
+  "tags" : {
+    "name" : "Копанки",
+    "tourism" : "alpine_hut",
+    "name:en" : "Kopanki"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1790711188,
+  "lat" : 41.3962021,
+  "lon" : 22.9526962,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1791491746,
+  "lat" : 41.3867493,
+  "lon" : 22.7529708,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1791598051,
+  "lat" : 41.2403357,
+  "lon" : 22.7177144,
+  "tags" : {
+    "tourism" : "chalet"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1791598060,
+  "lat" : 41.2409569,
+  "lon" : 22.7161909,
+  "tags" : {
+    "tourism" : "caravan_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1853704787,
+  "lat" : 41.1871817,
+  "lon" : 22.7221034,
+  "tags" : {
+    "name" : "Музеј на Дојран",
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1857486060,
+  "lat" : 42.0017233,
+  "lon" : 21.4617772,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Филип Втори"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1859114111,
+  "lat" : 41.9984602,
+  "lon" : 21.4349949,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Филип II Македонски",
+    "tourism" : "artwork",
+    "name:en" : "Philip II of Macedon"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1866944575,
+  "lat" : 41.9983057,
+  "lon" : 21.4254968,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Св. Климент Охридски",
+    "tourism" : "artwork",
+    "name:en" : "Clement of Ohrid",
+    "wikipedia" : "mk:Свети Климент Охридски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1867151652,
+  "lat" : 41.9993163,
+  "lon" : 21.437162,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Скендербег",
+    "tourism" : "artwork",
+    "name:en" : "Skanderbeg",
+    "wikipedia" : "en:Skanderbeg"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1867606193,
+  "lat" : 40.8570205,
+  "lon" : 21.1195933,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Маркова Нога"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1880656140,
+  "lat" : 41.9966896,
+  "lon" : 21.549603,
+  "tags" : {
+    "name" : "Белви",
+    "tourism" : "caravan_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1911159138,
+  "lat" : 41.190428,
+  "lon" : 22.2825627,
+  "tags" : {
+    "name" : "Смрдлива Вода",
+    "tourism" : "yes"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1920245399,
+  "lat" : 42.1820228,
+  "lon" : 22.1635034,
+  "tags" : {
+    "tourism" : "zoo"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1970006597,
+  "lat" : 41.340338,
+  "lon" : 22.9351752,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "2"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1970006598,
+  "lat" : 41.3524982,
+  "lon" : 22.9527929,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "3"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1995790447,
+  "lat" : 42.1355778,
+  "lon" : 21.7194275,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Јосип Броз - Тито"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1999950857,
+  "lat" : 41.4168996,
+  "lon" : 22.2617922,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1999950859,
+  "lat" : 41.381851,
+  "lon" : 22.2700695,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1999950866,
+  "lat" : 41.4085959,
+  "lon" : 22.2447656,
+  "tags" : {
+    "name" : "Museum of Wine",
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1999950867,
+  "lat" : 41.4012005,
+  "lon" : 22.2538529,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1999950869,
+  "lat" : 41.3916552,
+  "lon" : 22.2563366,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1999950887,
+  "lat" : 41.4056225,
+  "lon" : 22.2491215,
+  "tags" : {
+    "historic" : "castle"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 1999960679,
+  "lat" : 41.4066304,
+  "lon" : 22.2459833,
+  "tags" : {
+    "name" : "Калабастер",
+    "tourism" : "alpine_hut",
+    "name:en" : "Kalabaster"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2015829492,
+  "lat" : 41.4094203,
+  "lon" : 22.2541295,
+  "tags" : {
+    "historic" : "ruins",
+    "name" : "Марков Град",
+    "name:en" : "Markov Grad"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2024605293,
+  "lat" : 42.2888675,
+  "lon" : 22.0459031,
+  "tags" : {
+    "name" : "Длабочица",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2026119373,
+  "lat" : 41.794932,
+  "lon" : 20.9108574,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Sahat Kula"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2026891418,
+  "lat" : 42.1068795,
+  "lon" : 21.1545235,
+  "tags" : {
+    "historic" : "ruins",
+    "name" : "Орашко Кале",
+    "name:en" : "Orashko Kale"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2026911763,
+  "lat" : 41.5119269,
+  "lon" : 20.9702432,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Саат кула"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2026930302,
+  "lat" : 41.7140782,
+  "lon" : 21.7840512,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Саат кула"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2026975410,
+  "lat" : 41.2775784,
+  "lon" : 22.4937679,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Isar / Idomenae"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2136716883,
+  "lat" : 42.1346962,
+  "lon" : 21.7192303,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Куде сат"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2138788013,
+  "lat" : 41.4293251,
+  "lon" : 21.7629669,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Ножот",
+    "wikipedia" : "mk:Битка на Ножот"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2189840728,
+  "lat" : 41.3451182,
+  "lon" : 21.5519842,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Народен Херој Кузман Јосифоски-Питу",
+    "name:en" : "People's hero Kuzman Josifoski-Pitu"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2189840898,
+  "lat" : 41.3451518,
+  "lon" : 21.554267,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Пеце Атанасоски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2189840958,
+  "lat" : 41.3452617,
+  "lon" : 21.5522173,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Ѓорче Петров",
+    "name:en" : "Gjorche Petrov"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2268500979,
+  "lat" : 41.3748344,
+  "lon" : 21.2480535,
+  "tags" : {
+    "historic" : "tomb",
+    "name" : "Питу Гули"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2268500995,
+  "lat" : 41.3748686,
+  "lon" : 21.2482546,
+  "tags" : {
+    "historic" : "tomb",
+    "name" : "Тоше Проески"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2269431831,
+  "lat" : 41.3736665,
+  "lon" : 21.2463296,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Никола Карев"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2279507279,
+  "lat" : 41.1805738,
+  "lon" : 20.6776078,
+  "tags" : {
+    "name" : "Д-р Никола Незлобински",
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2282899086,
+  "lat" : 41.3818263,
+  "lon" : 22.9625526,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "18"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2282899090,
+  "lat" : 41.3969922,
+  "lon" : 22.965619,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "26"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2282899093,
+  "lat" : 41.4533981,
+  "lon" : 22.9762168,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "31"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2282899098,
+  "lat" : 41.4723462,
+  "lon" : 22.9662076,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "32"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2282899105,
+  "lat" : 41.4930169,
+  "lon" : 22.9585216,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "34"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2282899109,
+  "lat" : 41.5295396,
+  "lon" : 22.9605185,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "35"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2282899114,
+  "lat" : 41.5423737,
+  "lon" : 22.9604199,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "36"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2316156260,
+  "lat" : 41.0252483,
+  "lon" : 21.3365121,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2316156278,
+  "lat" : 41.024615,
+  "lon" : 21.3368929,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Стефан Наумов-Стив",
+    "name:en" : "Stefan Naumov-Stiv"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2323236969,
+  "lat" : 41.1423016,
+  "lon" : 22.5090711,
+  "tags" : {
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2323236970,
+  "lat" : 41.1401281,
+  "lon" : 22.5026606,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2323236973,
+  "lat" : 41.1401322,
+  "lon" : 22.5051926,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2327281126,
+  "lat" : 41.3649692,
+  "lon" : 21.2497316,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Споменик на Питу Гули",
+    "name:en" : "Statue of Pitu Guli"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2330629820,
+  "lat" : 41.3653856,
+  "lon" : 21.2484409,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Наум Наумоски-Борче",
+    "name:en" : "Naum Naumoski-Borche"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2350137461,
+  "lat" : 41.5516379,
+  "lon" : 21.9751675,
+  "tags" : {
+    "historic" : "ruins",
+    "name" : "Римски театар",
+    "name:en" : "Roman theater",
+    "wikipedia" : "en:Stobi"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2360747213,
+  "lat" : 41.1458586,
+  "lon" : 22.5001795,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Два Коња"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2437861604,
+  "lat" : 40.9756451,
+  "lon" : 20.9130921,
+  "tags" : {
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2535153634,
+  "lat" : 41.4184594,
+  "lon" : 22.0181317,
+  "tags" : {
+    "name" : "Спомен куќа на Страшо Пинџур",
+    "tourism" : "museum",
+    "name:en" : "Memorial house - Strasho Pindjur"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2545342051,
+  "lat" : 40.9765203,
+  "lon" : 20.9119981,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Преспанско Советување"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2578029313,
+  "lat" : 42.2020133,
+  "lon" : 22.3348959,
+  "tags" : {
+    "name" : "City Museum",
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2598104053,
+  "lat" : 41.3475544,
+  "lon" : 21.5564074,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Карпалак"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2613872315,
+  "lat" : 41.0141147,
+  "lon" : 20.8347906,
+  "tags" : {
+    "historic" : "wayside_cross"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2616082758,
+  "lat" : 42.1491368,
+  "lon" : 21.7853235,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Zebrnjak",
+    "wikipedia" : "en:Zebrnjak"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2759245083,
+  "lat" : 41.1126936,
+  "lon" : 20.7995376,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Свети Климент Охридски",
+    "tourism" : "artwork",
+    "name:en" : "Monument St. Clement Ohridski",
+    "wikipedia" : "mk:Свети Климент Охридски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2759253188,
+  "lat" : 41.1120476,
+  "lon" : 20.799994,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Свети Кирил и Методиј",
+    "tourism" : "artwork",
+    "name:en" : "Monuments of Saints Cyril and Methodius",
+    "wikipedia" : "mk:Св. Кирил и Методиј"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2759263738,
+  "lat" : 41.1122955,
+  "lon" : 20.7990226,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Свети Наум Охридски Чудотворец",
+    "tourism" : "artwork",
+    "name:en" : "Monument to St. Naum of Ohrid",
+    "wikipedia" : "mk:Свети Наум Охридски Чудотворец"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2795154377,
+  "lat" : 41.1124606,
+  "lon" : 20.7977703,
+  "tags" : {
+    "historic" : "city_gate",
+    "name" : "Долна Порта",
+    "name:en" : "Lower Gate"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2829462221,
+  "lat" : 42.0853984,
+  "lon" : 21.9627449,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Мачка камен",
+    "name:en" : "Macka kamen"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2836787184,
+  "lat" : 42.0050975,
+  "lon" : 20.942922,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 2851570672,
+  "lat" : 41.4182291,
+  "lon" : 21.0770931,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Христо Узунов",
+    "wikipedia" : "mk:Христо Узунов"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3011065701,
+  "lat" : 41.0561451,
+  "lon" : 20.8132397,
+  "tags" : {
+    "historic" : "wayside_cross"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3014170649,
+  "lat" : 41.8038352,
+  "lon" : 20.8020471,
+  "tags" : {
+    "name" : "Шарски Води",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3039854149,
+  "lat" : 41.9062629,
+  "lon" : 20.9636151,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Споменик на жртви од НОВ"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3089857461,
+  "lat" : 42.145271,
+  "lon" : 21.7225477,
+  "tags" : {
+    "name" : "Македонка",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3409068903,
+  "lat" : 41.3460556,
+  "lon" : 21.5524989,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Александар Македонски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3409068904,
+  "lat" : 41.3462544,
+  "lon" : 21.5528281,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Методија Андонов-Ченто"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3409074126,
+  "lat" : 41.3462194,
+  "lon" : 21.553243,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Св. Никола"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3409074127,
+  "lat" : 41.3464763,
+  "lon" : 21.5529446,
+  "tags" : {
+    "name" : "Народен херој Мице Козароски-Јандре",
+    "tourism" : "artwork",
+    "name:en" : "People's hero Mice Kozaroski-Jandre"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3418320912,
+  "lat" : 41.822914,
+  "lon" : 21.7360635,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Масакр кај Пуста Кула"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3456913802,
+  "lat" : 41.3434323,
+  "lon" : 21.5479723,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Карпалак 2001"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3457966074,
+  "lat" : 41.3341123,
+  "lon" : 21.554646,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Крипта",
+    "name:en" : "Cript"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3639421034,
+  "lat" : 41.6639916,
+  "lon" : 21.4285926,
+  "tags" : {
+    "name" : "Чеплес",
+    "tourism" : "alpine_hut",
+    "name:en" : "Cheples",
+    "wikipedia" : "mk:Планинарски дом „Чеплез“"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3642663981,
+  "lat" : 41.345456,
+  "lon" : 21.5548417,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Итар Пејо",
+    "name:en" : "Sly Peter"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3649017967,
+  "lat" : 41.7592274,
+  "lon" : 22.416989,
+  "tags" : {
+    "name" : "Вртешка",
+    "tourism" : "alpine_hut",
+    "name:en" : "Vrteshka"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3649158213,
+  "lat" : 41.6760151,
+  "lon" : 21.3049471,
+  "tags" : {
+    "name" : "Горна Белица",
+    "tourism" : "alpine_hut",
+    "name:en" : "Gorna Belica"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3649158793,
+  "lat" : 41.2864493,
+  "lon" : 22.3256456,
+  "tags" : {
+    "name" : "Висока Чука",
+    "tourism" : "alpine_hut",
+    "name:en" : "Visoka Chuka"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3649181784,
+  "lat" : 41.3925662,
+  "lon" : 22.1073625,
+  "tags" : {
+    "name" : "Горни Дисан",
+    "tourism" : "alpine_hut",
+    "name:en" : "Gorni Disan"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3649231445,
+  "lat" : 41.9273661,
+  "lon" : 21.766729,
+  "tags" : {
+    "name" : "Дивље",
+    "tourism" : "alpine_hut",
+    "name:en" : "Divlje"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3650382601,
+  "lat" : 41.3495265,
+  "lon" : 22.1960327,
+  "tags" : {
+    "name" : "Драчевица",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3650680677,
+  "lat" : 41.7916949,
+  "lon" : 21.4236661,
+  "tags" : {
+    "website" : "https://www.facebook.com/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0%D1%80%D1%81%D0%BA%D0%B8-%D0%B4%D0%BE%D0%BC-%D0%9A%D0%B0%D1%80%D0%B0%D1%9F%D0%B8%D1%86%D0%B0-Mountain-house-Karadzica-181888685230484/",
+    "name" : "Караџица",
+    "tourism" : "alpine_hut",
+    "name:en" : "Karadzhica",
+    "wikipedia" : "mk:Планинарски дом „Караџица“"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3650721180,
+  "lat" : 42.0163552,
+  "lon" : 20.8793778,
+  "tags" : {
+    "website" : "http://www.pkljuboten.org.mk/index.php?option=com_content&view=article&id=85&Itemid=59",
+    "name" : "Љуботен",
+    "tourism" : "alpine_hut",
+    "name:en" : "Ljuboten"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3650751556,
+  "lat" : 41.950243,
+  "lon" : 21.2992157,
+  "tags" : {
+    "name" : "Матка",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3650767204,
+  "lat" : 42.2845023,
+  "lon" : 21.9277519,
+  "tags" : {
+    "name" : "Молотино",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3650809063,
+  "lat" : 41.5495205,
+  "lon" : 21.5042671,
+  "tags" : {
+    "name" : "Мокрени",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3664552047,
+  "lat" : 41.2101825,
+  "lon" : 21.9969073,
+  "tags" : {
+    "name" : "Мрежичко",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3664575460,
+  "lat" : 40.9915726,
+  "lon" : 21.2813186,
+  "tags" : {
+    "name" : "Неолица",
+    "tourism" : "alpine_hut",
+    "name:en" : "Neolica"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3664591841,
+  "lat" : 41.6416345,
+  "lon" : 21.4387051,
+  "tags" : {
+    "name" : "Папрадиште",
+    "tourism" : "alpine_hut",
+    "name:en" : "Papradishte"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3664658438,
+  "lat" : 41.6236949,
+  "lon" : 22.3157246,
+  "tags" : {
+    "name" : "Плоча",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3668341495,
+  "lat" : 42.2466736,
+  "lon" : 22.0031897,
+  "tags" : {
+    "name" : "Појак Калман",
+    "tourism" : "alpine_hut",
+    "name:en" : "Pojak Kalman"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3668398298,
+  "lat" : 40.9721849,
+  "lon" : 21.6407994,
+  "tags" : {
+    "name" : "Скочивир",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3668572971,
+  "lat" : 41.9748842,
+  "lon" : 21.4092236,
+  "tags" : {
+    "name" : "Скопје 63",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3668857493,
+  "lat" : 42.0158843,
+  "lon" : 20.8778624,
+  "tags" : {
+    "name" : "Смрека",
+    "tourism" : "alpine_hut",
+    "name:en" : "Smreka"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3668883558,
+  "lat" : 41.09047,
+  "lon" : 21.7354404,
+  "tags" : {
+    "name" : "Старавина",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3669906379,
+  "lat" : 41.6511623,
+  "lon" : 20.877537,
+  "tags" : {
+    "name" : "Tajmište",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3669966813,
+  "lat" : 41.5816794,
+  "lon" : 21.1876474,
+  "tags" : {
+    "website" : "https://ursusspeleos.com.mk/",
+    "name" : "Урсус спелеос",
+    "tourism" : "alpine_hut",
+    "name:en" : "Usus Speleos"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3671888432,
+  "lat" : 42.011214,
+  "lon" : 20.8821046,
+  "tags" : {
+    "name" : "Конак",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3671954146,
+  "lat" : 41.3562648,
+  "lon" : 22.8828432,
+  "tags" : {
+    "name" : "Шарена Чешма",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3694881124,
+  "lat" : 41.975162,
+  "lon" : 22.8187714,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Dedo Jakim - Mill"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3694922580,
+  "lat" : 41.9769054,
+  "lon" : 22.8193451,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Ilin Kamen"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3695208787,
+  "lat" : 41.9668611,
+  "lon" : 22.7768724,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Гоце Делчев (Биста)",
+    "name:en" : "Goce Delchev"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3695208788,
+  "lat" : 41.9643843,
+  "lon" : 22.7742882,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Гоце Делчев",
+    "name:en" : "Goce Delchev"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3695770497,
+  "lat" : 41.9653801,
+  "lon" : 22.7716387,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Споменик на паднати борци во НОБ"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3695988841,
+  "lat" : 41.9664768,
+  "lon" : 22.7729986,
+  "tags" : {
+    "name" : "Музеј на град Делчево",
+    "tourism" : "museum",
+    "name:en" : "City Museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3696580046,
+  "lat" : 41.9661617,
+  "lon" : 22.772844,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3696656682,
+  "lat" : 41.9425359,
+  "lon" : 22.7954411,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Кула",
+    "name:en" : "Kula"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3713662739,
+  "lat" : 41.9952169,
+  "lon" : 21.426153,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Josip Broz Tito",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 3951819342,
+  "lat" : 41.9682709,
+  "lon" : 21.4313461,
+  "tags" : {
+    "historic" : "ruins",
+    "name" : "Маркови Кули",
+    "name:en" : "Markovi Kuli",
+    "wikipedia" : "mk:Маркови Кули (Водно)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4078676807,
+  "lat" : 41.139367,
+  "lon" : 22.5093733,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Леонид Јанков"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4095417830,
+  "lat" : 40.8536596,
+  "lon" : 21.1211491,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "Г177"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4095421689,
+  "lat" : 40.8545802,
+  "lon" : 21.1255774,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "Г176"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4095429583,
+  "lat" : 40.8554344,
+  "lon" : 21.1306578,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "Г175-2"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4095438268,
+  "lat" : 40.854785,
+  "lon" : 21.1326005,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "Г175-1"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4128156209,
+  "lat" : 41.9977079,
+  "lon" : 21.4339766,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Св. Кирил и Методиј",
+    "tourism" : "artwork",
+    "name:en" : "Saints Cyril and Methodius"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4128156210,
+  "lat" : 41.9975624,
+  "lon" : 21.4341509,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Св. Климент Охридски и Наум Охридски Чудотворец",
+    "tourism" : "artwork",
+    "name:en" : "Saints Clement of Ohrid and Naum",
+    "wikipedia" : "mk:Свети Климент Охридски;mk:Свети Наум Охридски Чудотворец"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4149143991,
+  "lat" : 41.9953917,
+  "lon" : 21.4313414,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Цар Самоил",
+    "tourism" : "artwork",
+    "name:en" : "Tsar Samuel",
+    "wikipedia" : "mk:Споменик на Цар Самоил (Скопје)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4154122109,
+  "lat" : 41.2251669,
+  "lon" : 21.4329692,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4154122110,
+  "lat" : 41.2257975,
+  "lon" : 21.4316498,
+  "tags" : {
+    "name" : "Круме Волнароски-Коља",
+    "tourism" : "artwork",
+    "name:en" : "Krume Volnaroski-Kolja"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4161113452,
+  "lat" : 41.9964949,
+  "lon" : 21.4321474,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Даме Груев",
+    "tourism" : "artwork",
+    "name:en" : "Dame Gruev"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4161113453,
+  "lat" : 41.9968799,
+  "lon" : 21.4323054,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Јустинијан I",
+    "tourism" : "artwork",
+    "name:en" : "Justinian I",
+    "wikipedia" : "mk:Споменик на Јустинијан I"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4161249330,
+  "lat" : 41.9979046,
+  "lon" : 21.4344182,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Олимпија",
+    "tourism" : "artwork",
+    "name:en" : "Olympias"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4180539742,
+  "lat" : 41.1143378,
+  "lon" : 20.7952385,
+  "tags" : {
+    "name" : "Галерија на икони",
+    "tourism" : "gallery",
+    "name:en" : "Icon Gallery"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4183631289,
+  "lat" : 41.993303,
+  "lon" : 21.4337226,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Прометеј",
+    "name:en" : "Prometheus"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4183704885,
+  "lat" : 41.9760971,
+  "lon" : 21.4116211,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4242928035,
+  "lat" : 41.9834333,
+  "lon" : 21.439106,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Тодор Александров"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4258672490,
+  "lat" : 41.0225732,
+  "lon" : 21.3127892,
+  "tags" : {
+    "name" : "elena",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4266031693,
+  "lat" : 41.986749,
+  "lon" : 21.4369668,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Стара Рампа"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4278022934,
+  "lat" : 41.4166941,
+  "lon" : 22.7549207,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Гоце Делчев"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4306447780,
+  "lat" : 41.3661079,
+  "lon" : 21.6749495,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Борка Талески-Модерното / Лазо Филиповски-Лавски",
+    "name:en" : "Borka Taleski / Lazo Filipovski"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4351691820,
+  "lat" : 40.9142149,
+  "lon" : 20.7412554,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Свети Наум"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4357104593,
+  "lat" : 41.7364573,
+  "lon" : 22.1901029,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4357166289,
+  "lat" : 41.736405,
+  "lon" : 22.1903758,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Споменик на загинатите евреи"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4365876494,
+  "lat" : 42.000853,
+  "lon" : 21.4375046,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Мустафа-пашина џамија",
+    "name:en" : "Murat Pasha Mosque"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4378846992,
+  "lat" : 41.9130467,
+  "lon" : 21.4333848,
+  "tags" : {
+    "historic" : "castle",
+    "name" : "Vila Varvarka",
+    "name:en" : "Vila Varvarka"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4380846206,
+  "lat" : 41.9949279,
+  "lon" : 21.4108745,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Споменик на Јуриј Гагарин",
+    "name:en" : "Yuri Gagarin Monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4385116690,
+  "lat" : 41.1423882,
+  "lon" : 20.7564797,
+  "tags" : {
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4386764089,
+  "lat" : 41.9930188,
+  "lon" : 21.4332009,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Никола Карев"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4411019689,
+  "lat" : 41.1791166,
+  "lon" : 22.7269756,
+  "tags" : {
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4411126494,
+  "lat" : 41.0302025,
+  "lon" : 21.3347596,
+  "tags" : {
+    "name" : "Статуа Филип II",
+    "tourism" : "artwork",
+    "name:en" : "Philip II Statue"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4435035191,
+  "lat" : 41.1606721,
+  "lon" : 20.6503978,
+  "tags" : {
+    "website" : "https://www.campingsunrise.eu/",
+    "name" : "Sunrise",
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4440746389,
+  "lat" : 41.9930933,
+  "lon" : 21.4298952,
+  "tags" : {
+    "name" : "Wall Street Bull",
+    "tourism" : "artwork",
+    "name:en" : "Wall Street Bull"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4477202789,
+  "lat" : 42.0016804,
+  "lon" : 21.4283664,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Вера Јоциќ",
+    "name:en" : "Vera Jocik"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4489443488,
+  "lat" : 41.5227668,
+  "lon" : 20.5275107,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4575831104,
+  "lat" : 41.3455416,
+  "lon" : 21.5532375,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Марко Мрњавчевиќ",
+    "name:en" : "Marko Mrnjavchevikj"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4575841428,
+  "lat" : 41.3450704,
+  "lon" : 21.5505634,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Круме Кепески"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4575841429,
+  "lat" : 41.3451329,
+  "lon" : 21.5506707,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Блаже Конески"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4575841430,
+  "lat" : 41.3451792,
+  "lon" : 21.5505581,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Марко Цепенков"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4589777068,
+  "lat" : 42.3110963,
+  "lon" : 22.3602199,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "Шуплив Камен"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4601421926,
+  "lat" : 41.3413087,
+  "lon" : 22.9282524,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "1a"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4680927493,
+  "lat" : 41.1150795,
+  "lon" : 20.8002326,
+  "tags" : {
+    "name" : "Atelje Farmakovski",
+    "tourism" : "artwork",
+    "name:en" : "Atelje Farmakovski"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4745413067,
+  "lat" : 41.2788101,
+  "lon" : 20.7836677,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Ботун"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4751492691,
+  "lat" : 41.158263,
+  "lon" : 22.5006786,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Споменик на слободата",
+    "name:en" : "Monument of freedom"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4866361421,
+  "lat" : 41.9409362,
+  "lon" : 21.3835348,
+  "tags" : {
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4895300521,
+  "lat" : 42.0048505,
+  "lon" : 21.4368762,
+  "tags" : {
+    "historic" : "monument",
+    "name:en" : "Haji Balaban Masjid"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4907386415,
+  "lat" : 41.3738524,
+  "lon" : 21.5025867,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Борецот"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4907494222,
+  "lat" : 41.3983937,
+  "lon" : 21.5642947,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4907621922,
+  "lat" : 41.973041,
+  "lon" : 22.7799224,
+  "tags" : {
+    "name" : "Твив арт",
+    "tourism" : "artwork",
+    "name:en" : "Tviv art"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4913622015,
+  "lat" : 41.7430936,
+  "lon" : 20.6763098,
+  "tags" : {
+    "historic" : "wayside_shrine"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4948953621,
+  "lat" : 41.1257626,
+  "lon" : 20.6409894,
+  "tags" : {
+    "tourism" : "caravan_site",
+    "name:en" : "Camping Livadista"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4966569722,
+  "lat" : 41.1220279,
+  "lon" : 20.7708293,
+  "tags" : {
+    "name" : "Scout Camp",
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4972835907,
+  "lat" : 41.1736526,
+  "lon" : 20.6783749,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Сергеј Есенин"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4972836074,
+  "lat" : 41.1735946,
+  "lon" : 20.6783982,
+  "tags" : {
+    "name" : "Славко Јаневски",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 4990143932,
+  "lat" : 42.100161,
+  "lon" : 21.4618917,
+  "tags" : {
+    "name" : "Vila Kum",
+    "tourism" : "chalet"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5022258023,
+  "lat" : 42.0428397,
+  "lon" : 21.4110404,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5055432426,
+  "lat" : 42.0768838,
+  "lon" : 22.1826261,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Крстева кула",
+    "name:en" : "Krste's Tower"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5055444424,
+  "lat" : 41.1949939,
+  "lon" : 22.6878453,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Споменик „Солунски фронт“ од I светска војна",
+    "name:en" : "World War I Salonica Front memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5055444426,
+  "lat" : 42.0768628,
+  "lon" : 22.1822635,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Хаџикостова кула",
+    "name:en" : "Hadji Kostov Tower"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5055455123,
+  "lat" : 42.0792053,
+  "lon" : 22.1818109,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Саат-кула",
+    "name:en" : "Clock Tower"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5055455125,
+  "lat" : 42.0788289,
+  "lon" : 22.1809805,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Златковичева кула",
+    "name:en" : "Zlatkovich Tower"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5055455126,
+  "lat" : 42.0786957,
+  "lon" : 22.1794714,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Симиќева кула",
+    "name:en" : "Simikj Tower"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5098505521,
+  "lat" : 41.4409796,
+  "lon" : 22.6796979,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Струмица-Кристал-64"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5115436809,
+  "lat" : 41.1142035,
+  "lon" : 20.7958058,
+  "tags" : {
+    "historic" : "tomb",
+    "name" : "Григор Прличев",
+    "name:en" : "Grigor Prlicev grave"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5253858494,
+  "lat" : 41.3384543,
+  "lon" : 22.9275511,
+  "tags" : {
+    "historic" : "boundary_stone",
+    "name" : "Тумба / Τούμπα",
+    "name:en" : "Tumba",
+    "wikipedia" : "mk:Тумба (врв)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5308964579,
+  "lat" : 41.9765397,
+  "lon" : 22.8213367,
+  "tags" : {
+    "historic" : "wayside_cross"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5317046322,
+  "lat" : 42.0229063,
+  "lon" : 21.4188415,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5320063221,
+  "lat" : 41.1142097,
+  "lon" : 20.7934484,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5324070425,
+  "lat" : 42.0017162,
+  "lon" : 21.4213151,
+  "tags" : {
+    "name" : "Staute",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5345636487,
+  "lat" : 42.0053056,
+  "lon" : 21.4223506,
+  "tags" : {
+    "name" : "Школка",
+    "tourism" : "artwork",
+    "name:en" : "Shell"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5392547422,
+  "lat" : 42.010912,
+  "lon" : 21.3796723,
+  "tags" : {
+    "name" : "Дамчевски",
+    "tourism" : "artwork",
+    "name:en" : "Damchevski"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5503460521,
+  "lat" : 41.9943791,
+  "lon" : 21.418471,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5541143272,
+  "lat" : 41.8845661,
+  "lon" : 22.5039935,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Теракота"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5551392390,
+  "lat" : 41.1745272,
+  "lon" : 20.6778868,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Никола Кукунешоски - Дунѓерски",
+    "name:en" : "Nikola Kukuneshoski - Dungjerski"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5551392391,
+  "lat" : 41.1747311,
+  "lon" : 20.6779485,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Крсте Јовановски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5551392392,
+  "lat" : 41.1749451,
+  "lon" : 20.6779833,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Димче Кошаркоски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5551410938,
+  "lat" : 41.1756537,
+  "lon" : 20.6782194,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Боро Шаин"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5551410939,
+  "lat" : 41.1755185,
+  "lon" : 20.6781791,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Јово Стефановски - Риле"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5551410940,
+  "lat" : 41.1753893,
+  "lon" : 20.6781416,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Разме Малески"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5551410941,
+  "lat" : 41.1752843,
+  "lon" : 20.6781067,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Петре Гончески - Гиле"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5596272451,
+  "lat" : 41.05924,
+  "lon" : 20.8033957,
+  "tags" : {
+    "historic" : "wayside_shrine",
+    "name" : "Св. Благовештение"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5601885725,
+  "lat" : 41.0000561,
+  "lon" : 20.8036513,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5670080623,
+  "lat" : 41.1512525,
+  "lon" : 20.6512326,
+  "tags" : {
+    "website" : "https://www.facebook.com/lakeside.mk/",
+    "name" : "Camping Lakeside",
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5699016423,
+  "lat" : 41.0240503,
+  "lon" : 21.0506131,
+  "tags" : {
+    "name" : "Eтнолошки музеј",
+    "tourism" : "museum",
+    "name:en" : "Ethnographic museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5711419372,
+  "lat" : 41.9963577,
+  "lon" : 21.4323793,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Гоце Делчев",
+    "tourism" : "artwork",
+    "name:en" : "Goce Delchev"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5722266446,
+  "lat" : 42.1003011,
+  "lon" : 21.9665342,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Konjuh"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5724919828,
+  "lat" : 42.0949995,
+  "lon" : 21.9658672,
+  "tags" : {
+    "historic" : "ruins",
+    "name" : "Rotonda Konjuh"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5724929432,
+  "lat" : 42.0995746,
+  "lon" : 21.9606298,
+  "tags" : {
+    "historic" : "wayside_shrine",
+    "name" : "Bosko Chapel"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5725072268,
+  "lat" : 41.7376603,
+  "lon" : 22.1863555,
+  "tags" : {
+    "historic" : "archaeological_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5725139643,
+  "lat" : 41.7995125,
+  "lon" : 22.289829,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Bargala"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5729150992,
+  "lat" : 41.3826711,
+  "lon" : 22.7536848,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5729742420,
+  "lat" : 41.7779241,
+  "lon" : 22.8625358,
+  "tags" : {
+    "historic" : "archaeological_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5729916159,
+  "lat" : 41.8484714,
+  "lon" : 22.4180157,
+  "tags" : {
+    "historic" : "archaeological_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5810247764,
+  "lat" : 41.7093532,
+  "lon" : 20.687885,
+  "tags" : {
+    "name" : "Trnica",
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5812672954,
+  "lat" : 42.0169571,
+  "lon" : 21.4434502,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Doma"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5833918548,
+  "lat" : 41.5939237,
+  "lon" : 20.652723,
+  "tags" : {
+    "name" : "Museum of Galichnik's cultural heritage",
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5841674945,
+  "lat" : 41.9963717,
+  "lon" : 21.4339472,
+  "tags" : {
+    "historic" : "memorial",
+    "name:en" : "The Bridge of Civilizations in Macedonia"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5841719696,
+  "lat" : 42.0011065,
+  "lon" : 21.4344426,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5846663486,
+  "lat" : 41.0239386,
+  "lon" : 20.8255665,
+  "tags" : {
+    "historic" : "memorial",
+    "name:en" : "chapel"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5901740885,
+  "lat" : 41.9952759,
+  "lon" : 21.4319995,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Спомен плоча на Мајка Тереза",
+    "name:en" : "Mother Teresa Old House Place"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5926438456,
+  "lat" : 41.1057278,
+  "lon" : 20.8078335,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Ард ден Долард",
+    "name:en" : "Aard den Dolaard"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5932385385,
+  "lat" : 41.958616,
+  "lon" : 21.4422187,
+  "tags" : {
+    "historic" : "castle",
+    "name" : "Резиденцијата Главинов",
+    "name:en" : "Residence Glavinov"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 5996037201,
+  "lat" : 41.1513926,
+  "lon" : 20.6512019,
+  "tags" : {
+    "name" : "Camping Lakeside",
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6054035627,
+  "lat" : 41.9953188,
+  "lon" : 21.4274744,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6054036213,
+  "lat" : 41.9996011,
+  "lon" : 21.4195079,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6054048485,
+  "lat" : 41.9957136,
+  "lon" : 21.4306041,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Методија Андонов - Ченто"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6054048488,
+  "lat" : 41.9954634,
+  "lon" : 21.4268586,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6054048494,
+  "lat" : 41.9950349,
+  "lon" : 21.4293515,
+  "tags" : {
+    "name" : "Споменик на Христо Узунов",
+    "tourism" : "artwork",
+    "name:en" : "Statue of Hristo Uzunov"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6054049798,
+  "lat" : 42.0072121,
+  "lon" : 21.3655391,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6054049805,
+  "lat" : 41.9959384,
+  "lon" : 21.4331831,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6102488862,
+  "lat" : 41.9941112,
+  "lon" : 21.4340211,
+  "tags" : {
+    "name" : "Градот убав",
+    "tourism" : "artwork",
+    "name:en" : "Street Art & Graffiti Gallery"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6136130985,
+  "lat" : 41.9974433,
+  "lon" : 20.9681527,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "terminal mitnitsa tetovo"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6136130988,
+  "lat" : 41.9885405,
+  "lon" : 21.2926787,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "patarina-160"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6337100523,
+  "lat" : 41.8289715,
+  "lon" : 21.9562049,
+  "tags" : {
+    "website" : "https://www.ancient-origins.net/news-history-archaeology/astronomical-alignment-geoglyph-republic-macedonia-020170",
+    "historic" : "monument",
+    "name" : "Kanda - Geoglif Sv. Nikole"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6348392216,
+  "lat" : 41.7361643,
+  "lon" : 22.2020987,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6348392225,
+  "lat" : 41.738462,
+  "lon" : 22.1983434,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6348392226,
+  "lat" : 41.7384601,
+  "lon" : 22.1984235,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6348392227,
+  "lat" : 41.7361778,
+  "lon" : 22.201961,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6348392228,
+  "lat" : 41.7362745,
+  "lon" : 22.2015065,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6348392229,
+  "lat" : 41.7363007,
+  "lon" : 22.201344,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6349377665,
+  "lat" : 41.7364635,
+  "lon" : 22.1899861,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6349394489,
+  "lat" : 41.7363308,
+  "lon" : 22.1912077,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6349721704,
+  "lat" : 41.7213441,
+  "lon" : 22.6569551,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Споменик на Малешевскиот (Малешки) народноослободителен одред"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6370375570,
+  "lat" : 40.9578024,
+  "lon" : 20.7807897,
+  "tags" : {
+    "website" : "http://www.grebnos.com",
+    "name" : "Grebnos RV Park and Camping",
+    "tourism" : "camp_site",
+    "name:en" : "Grebnos RV Park and Camping"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6418857588,
+  "lat" : 41.0043725,
+  "lon" : 20.9282003,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Кале",
+    "name:en" : "Kale",
+    "wikipedia" : "mk:Кале (Шурленци)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6471416045,
+  "lat" : 41.9856377,
+  "lon" : 22.5905605,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Калата",
+    "name:en" : "Kalata",
+    "wikipedia" : "mk:Калата"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6535106716,
+  "lat" : 41.6952366,
+  "lon" : 21.628172,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Бањичко Кале",
+    "name:en" : "Banjica Fortress",
+    "wikipedia" : "mk:Бањичко Кале"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6535291386,
+  "lat" : 41.4020926,
+  "lon" : 22.2463863,
+  "tags" : {
+    "website" : "https://www.campingmacedonia.com/",
+    "name" : "Rock camp",
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6549925339,
+  "lat" : 40.9536539,
+  "lon" : 21.0720023,
+  "tags" : {
+    "name" : "Coca Beach Bar",
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6551383461,
+  "lat" : 41.0911248,
+  "lon" : 20.8003779,
+  "tags" : {
+    "name" : "Camperstop KJ Divono",
+    "tourism" : "caravan_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6563726510,
+  "lat" : 41.3747079,
+  "lon" : 20.7630424,
+  "tags" : {
+    "website" : "https://en.m.wikipedia.org/wiki/People%27s_Liberation_Army_of_Macedonia",
+    "historic" : "monument",
+    "name" : "Mirče Acev Bataljon"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6602681335,
+  "lat" : 42.0003947,
+  "lon" : 21.4323317,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6753287085,
+  "lat" : 40.9810657,
+  "lon" : 20.9179668,
+  "tags" : {
+    "tourism" : "camp_site",
+    "name:en" : "Self organized camping"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6781576802,
+  "lat" : 41.1146413,
+  "lon" : 20.7912802,
+  "tags" : {
+    "historic" : "city_gate"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6821158694,
+  "lat" : 41.9943288,
+  "lon" : 21.4307922,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "2 musicians and one dancing man"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6833101185,
+  "lat" : 41.1120953,
+  "lon" : 20.795694,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Коста Абраш"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6836372300,
+  "lat" : 41.9980253,
+  "lon" : 21.4401485,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6836372425,
+  "lat" : 41.9921956,
+  "lon" : 21.4373551,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6836372494,
+  "lat" : 41.9921852,
+  "lon" : 21.4373454,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6837039795,
+  "lat" : 41.1124032,
+  "lon" : 20.8071328,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Henry Dunant"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6900758215,
+  "lat" : 41.1105053,
+  "lon" : 20.8047435,
+  "tags" : {
+    "name" : "Tomic",
+    "tourism" : "chalet"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6901630767,
+  "lat" : 41.2754595,
+  "lon" : 21.3684104,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Љубе Грујоски",
+    "name:en" : "Ljube Grujoski"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6928597500,
+  "lat" : 42.0992419,
+  "lon" : 21.9628186,
+  "tags" : {
+    "historic" : "archaeological_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6987611917,
+  "lat" : 41.9962134,
+  "lon" : 21.4291373,
+  "tags" : {
+    "tourism" : "museum",
+    "name:en" : "Museum of illusions"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6993445185,
+  "lat" : 41.0327147,
+  "lon" : 21.335686,
+  "tags" : {
+    "name" : "Дрво на животот",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 6993445186,
+  "lat" : 41.0334398,
+  "lon" : 21.3356797,
+  "tags" : {
+    "name" : "Естреја Овадија-Мара",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7102244287,
+  "lat" : 41.9989569,
+  "lon" : 21.3865879,
+  "tags" : {
+    "name" : "Galerija RA",
+    "tourism" : "museum",
+    "name:en" : "Gallery RA"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7124138432,
+  "lat" : 41.1857198,
+  "lon" : 22.7227512,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Споменик на Дојрана"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7124138466,
+  "lat" : 41.1825947,
+  "lon" : 22.7233826,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Чешма Света Петка"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7133229598,
+  "lat" : 41.9928201,
+  "lon" : 21.430246,
+  "tags" : {
+    "name" : "Skopje Deluxe Apartments",
+    "tourism" : "apartments"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7473901313,
+  "lat" : 41.1850048,
+  "lon" : 20.7762352,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "AXX110 / RA-42390"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7473959214,
+  "lat" : 41.9779001,
+  "lon" : 21.6157628,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "PMK301 / PH-KXL"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7475537800,
+  "lat" : 41.3724643,
+  "lon" : 21.5605466,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Дабнички масакр",
+    "name:en" : "Masacre of Dabnica",
+    "wikipedia" : "mk:Дабнички масакр"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7504362426,
+  "lat" : 41.2064953,
+  "lon" : 21.6536957,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Толе Паша",
+    "name:en" : "Tole Pasha",
+    "wikipedia" : "mk:Толе_Паша"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7508523395,
+  "lat" : 42.022416,
+  "lon" : 21.5476216,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Ацо Ангеловски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7508523396,
+  "lat" : 42.0225556,
+  "lon" : 21.5480468,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Кирил Петрушевски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7508523397,
+  "lat" : 42.0227044,
+  "lon" : 21.5486015,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Ерол Готак"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7564103281,
+  "lat" : 41.9764851,
+  "lon" : 21.1660504,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Нане Наумоски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7564103282,
+  "lat" : 41.977847,
+  "lon" : 21.1773385,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Сашо Китаноски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7564103283,
+  "lat" : 41.97753,
+  "lon" : 21.1679024,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Бранко Секулоски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7564125585,
+  "lat" : 41.9781971,
+  "lon" : 21.1745241,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Горан Миноски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7564125586,
+  "lat" : 41.977893,
+  "lon" : 21.1713626,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Марко Деспотоски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7564125587,
+  "lat" : 41.9767167,
+  "lon" : 21.1675604,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Ердован Шабаноски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7564125588,
+  "lat" : 41.9772958,
+  "lon" : 21.1694976,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Љубе Грујоски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7564125589,
+  "lat" : 41.9770406,
+  "lon" : 21.1717935,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Дарко Велјаноски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7564125590,
+  "lat" : 41.9767893,
+  "lon" : 21.1747438,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Веби Рушитоски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7564125591,
+  "lat" : 41.977042,
+  "lon" : 21.1770879,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Пеце Секулоски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7623493347,
+  "lat" : 41.3575814,
+  "lon" : 21.6256855,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Карпалак"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7626158238,
+  "lat" : 41.4014262,
+  "lon" : 22.0284286,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Масакр во Ваташа",
+    "name:en" : "Vatasha Massacre",
+    "wikipedia" : "mk:Масакр во Ваташа"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7626874879,
+  "lat" : 41.3428704,
+  "lon" : 21.5583071,
+  "tags" : {
+    "historic" : "tomb",
+    "name" : "Пере Тошев",
+    "name:en" : "Pere Toshev"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7668777840,
+  "lat" : 41.2504567,
+  "lon" : 21.2277167,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7769292645,
+  "lat" : 41.9972086,
+  "lon" : 21.4333292,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7771077503,
+  "lat" : 41.4436592,
+  "lon" : 20.8721449,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Duko Tasev"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7796229745,
+  "lat" : 41.4831122,
+  "lon" : 20.9229426,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Гоце Делчев"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7796229746,
+  "lat" : 41.483575,
+  "lon" : 20.9222623,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Христо Узунов",
+    "name:en" : "Hristo Uzunov"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7817723542,
+  "lat" : 41.2693524,
+  "lon" : 21.1933224,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7817956981,
+  "lat" : 41.1121139,
+  "lon" : 20.7976493,
+  "tags" : {
+    "historic" : "city_gate"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7826733791,
+  "lat" : 41.4528994,
+  "lon" : 20.9658462,
+  "tags" : {
+    "historic" : "battlefield",
+    "name" : "Битката на Ѓурѓејца",
+    "name:en" : "Battle of Gjurgjejca"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7833094677,
+  "lat" : 41.8646892,
+  "lon" : 21.942062,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Споменик Св. Никола",
+    "name:en" : "Monument of St. Nicholas"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7833095397,
+  "lat" : 41.8644645,
+  "lon" : 21.9410121,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Споменик „Лазар Колишевски“"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7836134125,
+  "lat" : 41.8627557,
+  "lon" : 21.9386585,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Св. Илија"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 7947878810,
+  "lat" : 41.9156602,
+  "lon" : 22.412778,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Споменик на Никола Карев",
+    "name:en" : "Monument to Nikola Karev"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8004416436,
+  "lat" : 41.3360133,
+  "lon" : 21.5554027,
+  "tags" : {
+    "name" : "Кире Гаврилоски-Јане",
+    "tourism" : "artwork",
+    "name:en" : "Kire Gavriloski-Jane",
+    "wikipedia" : "mk:Кире Гаврилоски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8004416437,
+  "lat" : 41.3356523,
+  "lon" : 21.554537,
+  "tags" : {
+    "name" : "Круме Волнароски-Коља",
+    "tourism" : "artwork",
+    "name:en" : "Krume Volnaroski-Kolja",
+    "wikipedia" : "mk:Круме Волнароски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8004416438,
+  "lat" : 41.3358036,
+  "lon" : 21.5548999,
+  "tags" : {
+    "name" : "Народен херој Мирче Ацев-Стојче",
+    "tourism" : "artwork",
+    "name:en" : "People's hero Mirche Acev-Stojche",
+    "wikipedia" : "mk:Мирче Ацев"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8004416439,
+  "lat" : 41.3357217,
+  "lon" : 21.5547035,
+  "tags" : {
+    "name" : "Рампо Левков-Левков",
+    "tourism" : "artwork",
+    "name:en" : "Rampo Levkov-Levkata",
+    "wikipedia" : "mk:Рампо Левков - Левката"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8004416440,
+  "lat" : 41.3358954,
+  "lon" : 21.55512,
+  "tags" : {
+    "name" : "Борка Талески-Модерното",
+    "tourism" : "artwork",
+    "name:en" : "Borka Taleski-Modernoto",
+    "wikipedia" : "mk:Борка Талески"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8004416441,
+  "lat" : 41.3356849,
+  "lon" : 21.5546151,
+  "tags" : {
+    "name" : "Лазо Колевски-Лавски",
+    "tourism" : "artwork",
+    "name:en" : "Lazo Kolevski-Lavski",
+    "wikipedia" : "mk:Лазо Колевски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8004416442,
+  "lat" : 41.335763,
+  "lon" : 21.5548025,
+  "tags" : {
+    "name" : "Борка Велески-Горанов",
+    "tourism" : "artwork",
+    "name:en" : "Borka Veleski-Goranov",
+    "wikipedia" : "mk:Борка Велески"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8004416443,
+  "lat" : 41.3358485,
+  "lon" : 21.5550074,
+  "tags" : {
+    "name" : "Народен херој Кузман Јосифоски-Питу",
+    "tourism" : "artwork",
+    "name:en" : "People's hero Kuzman Josifoski-Pitu",
+    "wikipedia" : "mk:Кузман Јосифоски - Питу"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8004416444,
+  "lat" : 41.3359385,
+  "lon" : 21.5552234,
+  "tags" : {
+    "name" : "Јордан Чопела-Орде",
+    "tourism" : "artwork",
+    "name:en" : "Jordan Chopela-Orde",
+    "wikipedia" : "mk:Орде Чопела"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8004416445,
+  "lat" : 41.3359728,
+  "lon" : 21.5553055,
+  "tags" : {
+    "name" : "Илија Игески-Цветан",
+    "tourism" : "artwork",
+    "name:en" : "Ilija Igeski-Cvetan",
+    "wikipedia" : "mk:Илија Јованоски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8048135011,
+  "lat" : 41.3464944,
+  "lon" : 21.5629735,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Кире Гаврилоски-Јане / Круме Волнароски-Коља",
+    "name:en" : "Kire Gavriloski-Jane / Krume Volnaroski-Kolja"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8063563409,
+  "lat" : 41.3421058,
+  "lon" : 21.5572532,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Александар Македонски",
+    "name:en" : "Alexander The Great"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8069229451,
+  "lat" : 41.3677912,
+  "lon" : 21.249738,
+  "tags" : {
+    "name" : "Биста на Манчу Матак",
+    "tourism" : "artwork",
+    "name:en" : "Bust of Manču Matak"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8071427969,
+  "lat" : 41.3436474,
+  "lon" : 21.547995,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8148917180,
+  "lat" : 40.9507516,
+  "lon" : 21.562326,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8176930570,
+  "lat" : 41.3675691,
+  "lon" : 21.6538376,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8193704891,
+  "lat" : 41.3761727,
+  "lon" : 21.2464617,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Мирослав Јоксимовиќ",
+    "name:en" : "Miroslav Joksimovikj"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8245486495,
+  "lat" : 41.3747282,
+  "lon" : 21.2375283,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8279921462,
+  "lat" : 41.3653786,
+  "lon" : 21.2488407,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Кица Петрески",
+    "name:en" : "Kica Petreski"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8301080099,
+  "lat" : 41.3563252,
+  "lon" : 21.7710681,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8355000320,
+  "lat" : 41.3597742,
+  "lon" : 21.5348671,
+  "tags" : {
+    "name" : "ТИТО",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8355883554,
+  "lat" : 41.3418209,
+  "lon" : 21.5556407,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8358854928,
+  "lat" : 41.1830133,
+  "lon" : 21.8251757,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8402562316,
+  "lat" : 41.8668125,
+  "lon" : 21.6650899,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "VAM-304"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8402601134,
+  "lat" : 41.4498577,
+  "lon" : 22.6491133,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "МАР-7712"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8412381211,
+  "lat" : 41.366045,
+  "lon" : 20.6489384,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "1. Бригада",
+    "name:en" : "1st Brigade",
+    "wikipedia" : "mk:Прва македонска ударна бригада"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8433354043,
+  "lat" : 41.9998632,
+  "lon" : 21.4292436,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Ослободителите на Скопје",
+    "name:en" : "Monument to the Liberators of Skopje"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8463462957,
+  "lat" : 41.3736045,
+  "lon" : 21.5018088,
+  "tags" : {
+    "historic" : "wayside_cross"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8463466227,
+  "lat" : 41.3476525,
+  "lon" : 21.5594109,
+  "tags" : {
+    "name" : "Јоска Јорданоски - Сандански",
+    "tourism" : "artwork",
+    "name:en" : "Joska Jordanoski - Sandanski",
+    "wikipedia" : "mk:Јоска Јорданоски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8464321299,
+  "lat" : 42.0045279,
+  "lon" : 21.4182143,
+  "tags" : {
+    "name" : "Дане Крапчев",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8484052150,
+  "lat" : 41.3702007,
+  "lon" : 21.6788001,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8507800396,
+  "lat" : 42.0038675,
+  "lon" : 21.4135021,
+  "tags" : {
+    "name" : "Христијан Тодоровски Карпош",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8534237588,
+  "lat" : 41.3435127,
+  "lon" : 21.5549177,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "08.12.1941"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8540573533,
+  "lat" : 41.0221088,
+  "lon" : 21.3313534,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8611709617,
+  "lat" : 41.1645184,
+  "lon" : 20.7391537,
+  "tags" : {
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8641682658,
+  "lat" : 41.2551396,
+  "lon" : 22.0327107,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8644628525,
+  "lat" : 41.3851036,
+  "lon" : 21.5917862,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8644628526,
+  "lat" : 41.3849458,
+  "lon" : 21.5916531,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8677386085,
+  "lat" : 42.0673767,
+  "lon" : 20.9185104,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Вејце"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8685631871,
+  "lat" : 42.03468,
+  "lon" : 22.3544954,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8734384518,
+  "lat" : 41.3175299,
+  "lon" : 22.5856226,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8780754325,
+  "lat" : 41.345092,
+  "lon" : 21.5643393,
+  "tags" : {
+    "name" : "Киро Бајрамоски",
+    "tourism" : "artwork",
+    "name:en" : "Kiro Bajramoski"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8839214620,
+  "lat" : 42.2413967,
+  "lon" : 21.6267691,
+  "tags" : {
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8880547039,
+  "lat" : 41.9998618,
+  "lon" : 21.4485415,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Генерал Михаило Апостолски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8883349543,
+  "lat" : 41.9988251,
+  "lon" : 21.4506665,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Генерал Михајло Апостолски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8883349544,
+  "lat" : 41.9960184,
+  "lon" : 21.4412009,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Krste Petkov Misirkov"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8883349545,
+  "lat" : 41.9960802,
+  "lon" : 21.4408764,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Blaže Koneski"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8901338318,
+  "lat" : 41.6560282,
+  "lon" : 21.0216359,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Sultana"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8901338319,
+  "lat" : 41.7192252,
+  "lon" : 20.881732,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Xhemë Hasa"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8901349094,
+  "lat" : 41.5964956,
+  "lon" : 20.9510739,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Albanian Mother"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8914478017,
+  "lat" : 41.3961543,
+  "lon" : 22.6078358,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8914478317,
+  "lat" : 41.3183647,
+  "lon" : 22.5609249,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8944545329,
+  "lat" : 41.0108476,
+  "lon" : 21.3208996,
+  "tags" : {
+    "historic" : "wayside_shrine",
+    "name" : "Св. Георгиј",
+    "name:en" : "St. George"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 8951219184,
+  "lat" : 41.1119818,
+  "lon" : 20.799333,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Фаќач на чесниот крст"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9026624343,
+  "lat" : 41.9945304,
+  "lon" : 21.4326511,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Павел Шатев",
+    "name:en" : "Pavel Šatev"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9077950817,
+  "lat" : 41.9942061,
+  "lon" : 21.4330139,
+  "tags" : {
+    "name" : "Македонски бранители",
+    "tourism" : "artwork",
+    "description" : "посветен на загинатите припадници на Вооружените сили на Македонија во војната од 2001 година, кој свечено се открил на 23 октомври 2011 година."
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9078062172,
+  "lat" : 41.9940194,
+  "lon" : 21.433845,
+  "tags" : {
+    "name" : "Тарас Шевченко",
+    "tourism" : "artwork",
+    "description" : "Тарас Шевченко (украински Тарас Григорович Шевченко; 9 март 1814 – 10 март 1861) — познат украински писател.\nРоден е во с. Моринци, Киевска губернија, во тоа време дел од Руската Империја. Бил член на Братството на Кирил и Методиј. По обвинувањето во анти"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9078062188,
+  "lat" : 41.9940981,
+  "lon" : 21.4337313,
+  "tags" : {
+    "name" : "Славко Јаневски",
+    "tourism" : "artwork",
+    "description" : "Славко Јаневски (Скопје, 11 јануари 1920 — Скопје, 20 јануари 2000) — истакнат македонски раскажувач, романописец, поет, филмски сценарист, есеист и сликар. Долги години бил член на МАНУ и Друштвото на писатели на Македонија. Тој припаѓа на првата генерац",
+    "name:en" : "Slavko Janevski"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9078062189,
+  "lat" : 41.993726,
+  "lon" : 21.4332709,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Невена Георгиева-Дуња"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9078062190,
+  "lat" : 41.9939364,
+  "lon" : 21.433093,
+  "tags" : {
+    "name" : "Петар Богданов",
+    "tourism" : "artwork",
+    "description" : "Историско значење Петар Богдани — римокатолички бискуп скадарски (1656 — 1671) и надбискуп скопски (1671 — 1689). Се бавел со книжевна работа, а творел на албански, италијански и латински јазик.\nИзлеан во бронза, висок 5 метри, поставен на триметарски пос"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9078062191,
+  "lat" : 41.9940383,
+  "lon" : 21.4330051,
+  "tags" : {
+    "name" : "Кузман Јосифоски-Питу",
+    "tourism" : "artwork",
+    "description" : "Историско значење: Кузман Јосифоски - Питу (Прилеп, 23 јуни 1915 - Скопје, 25 февруари 1944) — македонски правник, комунист, еден од главните организатори на антифашистичкото движење (1938-1941) и на НОБ во Македонија (1941-1944).\n\nСтанува член на КПЈ во"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9078062192,
+  "lat" : 41.9940199,
+  "lon" : 21.4332951,
+  "tags" : {
+    "name" : "Татковина - Копнеж за прогонатите",
+    "tourism" : "artwork",
+    "description" : "Историската позадина на овој споменик е поврзана со жените и женската младина од Скопје и цела Македонија активно учествувале во многу акции организирани од СКОЈ и синдикатите. Во 1940 година била основана „Женска набавна задруга“ во која членувале околу"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9078207072,
+  "lat" : 41.9933258,
+  "lon" : 21.4335226,
+  "tags" : {
+    "name" : "Основачите на Македонската револуционерна организација",
+    "tourism" : "artwork",
+    "description" : "Споменикот е посветен на шестмината основачи на Македонската револуционерна организација односно револуционерно-националноослободителна организација на македонскиот народ: Даме Груев, Христо Татарчев, Петар Поп Арсов, Иван Хаџи Николов, Андон Димитров и Х"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9078207073,
+  "lat" : 41.9931516,
+  "lon" : 21.4336429,
+  "tags" : {
+    "name" : "Првото заседание на АСНОМ",
+    "tourism" : "artwork",
+    "description" : "Композицијата, изработена во бронза, е составена од 10 скулптури од кои три се во седечка позиција со димензии од 3,20 метри и седум во стоечка позиција со димензии од четири метри.\nТие ги претставуваат учесниците на АСНОМ, првото Собрание на Република Ма"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9079063679,
+  "lat" : 41.9936316,
+  "lon" : 21.4340468,
+  "tags" : {
+    "name" : "Споменик на жената борец",
+    "tourism" : "artwork",
+    "description" : "Жените и женската младина од Скопје и цела Македонија активно учествувале во многу акции организирани од СКОЈ и синдикатите. Во 1940 година била основана „Женска набавна задруга“ во која членувале околу 150 жени домаќинки, работнички, студентки и други мл"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9080920713,
+  "lat" : 42.0640097,
+  "lon" : 21.0288552,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Ѓоко Лазаревски",
+    "name:en" : "Gjoko Lazarevski"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9080921338,
+  "lat" : 42.0700178,
+  "lon" : 21.027212,
+  "tags" : {
+    "historic" : "tomb",
+    "name" : "Теодорит"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9086030878,
+  "lat" : 42.0669654,
+  "lon" : 21.0282911,
+  "tags" : {
+    "historic" : "tomb",
+    "name" : "Кирил Пејчиновиќ-Тетоец",
+    "name:en" : "Kiril Pejchinovikj-Tetoec"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9086030879,
+  "lat" : 42.0668701,
+  "lon" : 21.0285176,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Загинати Лешочани во војните 1903-2001"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9121296388,
+  "lat" : 41.9933504,
+  "lon" : 21.4338554,
+  "tags" : {
+    "name" : "Паднати херои за Македонија",
+    "tourism" : "artwork",
+    "description" : "Значење на споменикот\nСпоред авторот на ова спомен-обележје, Томе Аџиевски, тој се состои од неколку сегменти кои носат своја симболика. Агората е претставена со фонтана и концентричен форум што го означува светот на живите. На средината на фонтаната е по"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9156040710,
+  "lat" : 41.3464898,
+  "lon" : 21.5529611,
+  "tags" : {
+    "name" : "Народен херој Трајко Бошкоски-Тарцан",
+    "tourism" : "artwork",
+    "name:en" : "People's hero Trajko Boshkoski-Tarcan"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9200215821,
+  "lat" : 41.1141534,
+  "lon" : 20.798276,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Нада Филева",
+    "name:en" : "Nada Fileva"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9200216072,
+  "lat" : 41.9986089,
+  "lon" : 21.4377285,
+  "tags" : {
+    "historic" : "monument",
+    "name:en" : "Soldier with gun on horse"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9200216569,
+  "lat" : 42.0043082,
+  "lon" : 21.4185013,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Dane kraptzew"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9241877277,
+  "lat" : 41.4354106,
+  "lon" : 22.6364291,
+  "tags" : {
+    "name" : "Museum Strumica",
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9241915460,
+  "lat" : 41.1488082,
+  "lon" : 22.5220207,
+  "tags" : {
+    "name" : "Vardarski Rid",
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9269907745,
+  "lat" : 41.9918182,
+  "lon" : 21.4296159,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Атентат на Киро Глигоров",
+    "name:en" : "Atentat of Kiro Gligorov"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9633312940,
+  "lat" : 41.3643261,
+  "lon" : 21.6070578,
+  "tags" : {
+    "historic" : "wayside_shrine",
+    "name" : "Св. Петка",
+    "name:en" : "St. Parascheva"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9656080544,
+  "lat" : 41.157167,
+  "lon" : 21.3566709,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9656080591,
+  "lat" : 41.2487962,
+  "lon" : 22.6492463,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9656369048,
+  "lat" : 41.3419581,
+  "lon" : 21.5572436,
+  "tags" : {
+    "name" : "Душко Наумоски",
+    "tourism" : "artwork",
+    "name:en" : "Dushko Naumoski"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9656369049,
+  "lat" : 41.3421257,
+  "lon" : 21.5574861,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9661472617,
+  "lat" : 41.9135927,
+  "lon" : 22.4105061,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Браќата Просветители Св. Кирил и Методиј"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9661483288,
+  "lat" : 41.9143473,
+  "lon" : 22.410612,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Љупчо Сантов"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9663795290,
+  "lat" : 41.204511,
+  "lon" : 21.4572557,
+  "tags" : {
+    "historic" : "tomb",
+    "name" : "Братска гробница"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9686944119,
+  "lat" : 41.5170131,
+  "lon" : 21.3517782,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9689907635,
+  "lat" : 41.2646939,
+  "lon" : 21.4678555,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9689907651,
+  "lat" : 41.2658411,
+  "lon" : 21.4705534,
+  "tags" : {
+    "historic" : "wayside_shrine"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9709707074,
+  "lat" : 41.3615324,
+  "lon" : 21.5377119,
+  "tags" : {
+    "historic" : "tomb"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9723408984,
+  "lat" : 41.4286415,
+  "lon" : 21.6200758,
+  "tags" : {
+    "historic" : "tomb",
+    "name" : "Игуменија Катерина"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9825979344,
+  "lat" : 41.0306613,
+  "lon" : 21.3343796,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9874974045,
+  "lat" : 41.3682851,
+  "lon" : 21.6484545,
+  "tags" : {
+    "historic" : "wayside_shrine"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9874974048,
+  "lat" : 41.3667601,
+  "lon" : 21.6537245,
+  "tags" : {
+    "historic" : "wayside_shrine"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9902309717,
+  "lat" : 41.0768077,
+  "lon" : 20.809887,
+  "tags" : {
+    "name" : "β.μακ.",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9907558764,
+  "lat" : 41.0425682,
+  "lon" : 21.0068261,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9909480547,
+  "lat" : 41.0656254,
+  "lon" : 21.1482793,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9909733630,
+  "lat" : 40.9395818,
+  "lon" : 20.9117668,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9915881944,
+  "lat" : 40.9785566,
+  "lon" : 21.3594107,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9927093810,
+  "lat" : 41.8781835,
+  "lon" : 20.8876605,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Naim Frasheri"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9927105104,
+  "lat" : 41.878351,
+  "lon" : 20.8835051,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Naser Ademi"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9927105105,
+  "lat" : 41.8782156,
+  "lon" : 20.883467,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Deshmoret e Ushtrise Clirimtare Kombetare"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 9945894317,
+  "lat" : 41.1123275,
+  "lon" : 20.7970433,
+  "tags" : {
+    "name" : "House of Lambeski",
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10006874002,
+  "lat" : 42.0001506,
+  "lon" : 22.1778987,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Јаким Д Стојковски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10006874003,
+  "lat" : 41.9998775,
+  "lon" : 22.1784244,
+  "tags" : {
+    "name" : "Свети Гаврил Лесновски 22 / 5,000 Translation results Свети Гаврил Лесновски",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10046664405,
+  "lat" : 41.1776887,
+  "lon" : 20.6786538,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10123614417,
+  "lat" : 41.3843244,
+  "lon" : 21.5914579,
+  "tags" : {
+    "historic" : "wayside_shrine"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10138176362,
+  "lat" : 41.3852314,
+  "lon" : 21.5933856,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10139298647,
+  "lat" : 41.3841894,
+  "lon" : 21.5914106,
+  "tags" : {
+    "historic" : "wayside_shrine"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10141409674,
+  "lat" : 41.3747391,
+  "lon" : 21.2465877,
+  "tags" : {
+    "name" : "Веле Марков",
+    "tourism" : "artwork",
+    "name:en" : "Vele Markov"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10173766195,
+  "lat" : 41.8768098,
+  "lon" : 22.5027575,
+  "tags" : {
+    "historic" : "castle",
+    "name" : "Viničko Kale"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10183133239,
+  "lat" : 41.1897759,
+  "lon" : 22.3244855,
+  "tags" : {
+    "website" : "https://zpskkozuf.mk/",
+    "name" : "Планинарски дом Томе Шутов Кротки",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10204019526,
+  "lat" : 41.1757856,
+  "lon" : 20.6777867,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10204019533,
+  "lat" : 41.1734474,
+  "lon" : 20.6809729,
+  "tags" : {
+    "name" : "Луна парк Струга",
+    "tourism" : "theme_park"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10204019571,
+  "lat" : 41.1757975,
+  "lon" : 20.6778798,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Нико Нестор-Дживджан"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10204019572,
+  "lat" : 41.1756353,
+  "lon" : 20.6791018,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Дрини дент"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10224019277,
+  "lat" : 41.364432,
+  "lon" : 21.5709712,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10234600940,
+  "lat" : 41.1100569,
+  "lon" : 21.3540794,
+  "tags" : {
+    "historic" : "wayside_shrine"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10248980740,
+  "lat" : 41.3734433,
+  "lon" : 21.255996,
+  "tags" : {
+    "historic" : "wayside_shrine"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10294842358,
+  "lat" : 41.5942721,
+  "lon" : 20.6527486,
+  "tags" : {
+    "name" : "Georgi Pulevski",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10543733398,
+  "lat" : 42.0040428,
+  "lon" : 21.4104669,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10543733399,
+  "lat" : 42.0038797,
+  "lon" : 21.4104321,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10543733400,
+  "lat" : 42.0039341,
+  "lon" : 21.4104586,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10543733401,
+  "lat" : 42.0039914,
+  "lon" : 21.4104586,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10543733402,
+  "lat" : 42.0038509,
+  "lon" : 21.410369,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10647480333,
+  "lat" : 41.3431379,
+  "lon" : 21.5458955,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10647480340,
+  "lat" : 41.3431449,
+  "lon" : 21.5461897,
+  "tags" : {
+    "name" : "Жан Анри Динан",
+    "tourism" : "artwork",
+    "name:en" : "Jean-Henri Dunant"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10777587983,
+  "lat" : 42.154679,
+  "lon" : 21.4615364,
+  "tags" : {
+    "name" : "Спирова колиба",
+    "tourism" : "wilderness_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10827861615,
+  "lat" : 41.1737068,
+  "lon" : 20.6783701,
+  "tags" : {
+    "name" : "Ацо Шопов",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10903157209,
+  "lat" : 41.5891815,
+  "lon" : 20.6256923,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10908105008,
+  "lat" : 41.1128328,
+  "lon" : 20.6362539,
+  "tags" : {
+    "name" : "Lakeside 2",
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10908337806,
+  "lat" : 41.1057905,
+  "lon" : 20.6340431,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10908339706,
+  "lat" : 41.1089992,
+  "lon" : 20.6340102,
+  "tags" : {
+    "historic" : "wayside_shrine"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10913747003,
+  "lat" : 41.9961595,
+  "lon" : 21.4328538,
+  "tags" : {
+    "name" : "Denkmal Neєat Agoli",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10913747004,
+  "lat" : 41.9961265,
+  "lon" : 21.4309955,
+  "tags" : {
+    "name" : "Dimitrija-Chupovski-Denkmal",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10913797905,
+  "lat" : 41.9962615,
+  "lon" : 21.4327484,
+  "tags" : {
+    "name" : "Споменик „Димитрија Поп-Георгиев Беровски“",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10913797906,
+  "lat" : 41.9964125,
+  "lon" : 21.4328484,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Споменик „Солунски атентатори и Гемиџии“"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10913797907,
+  "lat" : 41.9966814,
+  "lon" : 21.4331314,
+  "tags" : {
+    "name" : "Споменик Пливач",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10913797908,
+  "lat" : 41.9975108,
+  "lon" : 21.4335157,
+  "tags" : {
+    "name" : "Споменик „Ѓорѓија Пулевски“",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10913797909,
+  "lat" : 41.9972261,
+  "lon" : 21.4337566,
+  "tags" : {
+    "name" : "Споменик „Карпош“",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10913830732,
+  "lat" : 41.9981848,
+  "lon" : 21.4262452,
+  "tags" : {
+    "name" : "Споменик „Архиепископ г.г. Доситеј“",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10913830733,
+  "lat" : 41.9940198,
+  "lon" : 21.4306972,
+  "tags" : {
+    "name" : "Споменик „Мајка Тереза“",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10913830734,
+  "lat" : 41.9950978,
+  "lon" : 21.4309977,
+  "tags" : {
+    "name" : "Shoe Cleaner Statue",
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10914553383,
+  "lat" : 41.9538189,
+  "lon" : 21.288822,
+  "tags" : {
+    "historic" : "ruins",
+    "name" : "Света Троица и Свети Ѓорѓија",
+    "name:en" : "Holy Trinity and Holy George"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10932198705,
+  "lat" : 41.0748026,
+  "lon" : 21.3299172,
+  "tags" : {
+    "website" : "http://www.muzejkrklino.mk/en/",
+    "tourism" : "museum",
+    "name:en" : "Auto and etno museum \"Filip\""
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10945064305,
+  "lat" : 41.992832,
+  "lon" : 21.4373531,
+  "tags" : {
+    "tourism" : "caravan_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10985301682,
+  "lat" : 41.7613605,
+  "lon" : 21.0181065,
+  "tags" : {
+    "name" : "Peklishte",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 10992711205,
+  "lat" : 41.0587266,
+  "lon" : 21.2648169,
+  "tags" : {
+    "name" : "Camp Ambasador Bratin Dol",
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 11013862105,
+  "lat" : 41.1636494,
+  "lon" : 20.6516772,
+  "tags" : {
+    "tourism" : "camp_site",
+    "name:en" : "Camping Lira"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 11065477697,
+  "lat" : 41.7320872,
+  "lon" : 20.6704789,
+  "tags" : {
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 11104116737,
+  "lat" : 41.9990702,
+  "lon" : 21.4408323,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 11104116738,
+  "lat" : 41.9984293,
+  "lon" : 21.4400054,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 11107939919,
+  "lat" : 41.8117124,
+  "lon" : 21.1617392,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Голема Пеш",
+    "name:en" : "Golema Pesht",
+    "wikipedia" : "mk:Голема Пеш"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 11116151647,
+  "lat" : 41.9944202,
+  "lon" : 21.4278344,
+  "tags" : {
+    "name" : "Спомен-обележје на Благоја Деспотовски Шовељ",
+    "tourism" : "artwork",
+    "name:en" : "Statue of Blagoja Despotovski Šovelj"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 11158893505,
+  "lat" : 41.5875575,
+  "lon" : 21.0319272,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 11158893506,
+  "lat" : 41.5495562,
+  "lon" : 21.0214707,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 11158893547,
+  "lat" : 41.6173834,
+  "lon" : 21.0453863,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 11158893548,
+  "lat" : 41.5423453,
+  "lon" : 21.0000492,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 11168301684,
+  "lat" : 41.5558345,
+  "lon" : 20.9850402,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 11168301685,
+  "lat" : 41.5901965,
+  "lon" : 21.0276815,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 11170766747,
+  "lat" : 41.5207757,
+  "lon" : 20.9185806,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 11171381533,
+  "lat" : 41.5127983,
+  "lon" : 20.9638123,
+  "tags" : {
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 11243813470,
+  "lat" : 41.975373,
+  "lon" : 20.7816109,
+  "tags" : {
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "node",
+  "id" : 11246863338,
+  "lat" : 41.9304299,
+  "lon" : 21.6031224,
+  "tags" : {
+    "website" : "https://airbnb.com/h/storks-petrovec",
+    "name" : "Storks – Shtrkovi – Штркови",
+    "tourism" : "chalet",
+    "name:en" : "Storks – Shtrkovi – Штркови"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 32812963,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Музеј на Македонија",
+    "tourism" : "museum",
+    "name:en" : "Museum of Macedonia",
+    "wikipedia" : "mk:Музеј на Македонија"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 32885596,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Француски гробишта",
+    "name:en" : "French Cemetery"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 32887087,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "website" : "https://msu.mk/home/",
+    "name" : "Музеј на современата уметност",
+    "tourism" : "museum",
+    "name:en" : "Contemporary Art Museum of Macedonia",
+    "wikipedia" : "mk:Музеј на современата уметност (Скопје)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 33100249,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "castle",
+    "name" : "Тетовско Кале",
+    "name:en" : "Tetovo Fortress"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 34321902,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "castle"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 38580676,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Магаза",
+    "tourism" : "museum",
+    "name:en" : "Magaza gallery"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 67325261,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Димитар Илиевски-Мурато",
+    "tourism" : "alpine_hut",
+    "name:en" : "Dimitar Ilievski-Murato"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 150596710,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Спомен Костурница",
+    "tourism" : "museum",
+    "name:en" : "Kosturnica Memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 159068224,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Споменик Костурница"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 167788891,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "battlefield"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 167825381,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 167825388,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "tourism" : "chalet"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 167825390,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "tourism" : "caravan_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 167826316,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 167826319,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 170078323,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Кампувалиште „Крани“",
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 172158102,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "castle"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 172171547,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "website" : "https://nationalgallery.mk/",
+    "name" : "Национална галерија „Даут-пашин амам“",
+    "tourism" : "museum",
+    "name:en" : "Daut Pasha Hamam National Gallery",
+    "wikipedia" : "en:National Gallery of Macedonia"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 172180530,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "website" : "http://mmb.org.mk/w/",
+    "name" : "Музеј на македонската борба",
+    "tourism" : "museum",
+    "name:en" : "Museum of the Macedonian struggle",
+    "wikipedia" : "en:Museum of the Macedonian Struggle (Skopje)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 172186249,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "website" : "https://www.holocaustfund.org/",
+    "historic" : "memorial",
+    "name" : "Меморијален центар на холокаустот на Евреите од Македонија",
+    "tourism" : "museum",
+    "name:en" : "Holocaust Memorial Center for the Jews of Macedonia",
+    "wikipedia" : "en:Holocaust Memorial Center for the Jews of Macedonia"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 176040285,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "website" : "http://www.mgs.org.mk/",
+    "name" : "Музеј на Град Скопје",
+    "tourism" : "museum",
+    "name:en" : "Museum of the City of Skopje",
+    "wikipedia" : "en:Museum of the City of Skopje"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 176051871,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "website" : "http://www.memorialhouseofmotherteresa.org/",
+    "name" : "Спомен куќа на Мајка Тереза",
+    "tourism" : "museum",
+    "name:en" : "Memorial House of Mother Teresa",
+    "wikipedia" : "en:Memorial House of Mother Teresa"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 177144178,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "citywalls"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 177144179,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "citywalls"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 177646849,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Белви",
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 177695165,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "yes"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 177695166,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "castle"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 177695168,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "yes"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 180363121,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "website" : "https://nationalgallery.mk/",
+    "name" : "Национална галерија на Македонија „Чифте-амам“",
+    "tourism" : "gallery",
+    "name:en" : "Chifte Hammam National Gallery of Macedonia",
+    "wikipedia" : "en:Čifte Hammam"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 180725215,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Винарија Грков",
+    "tourism" : "winery",
+    "name:en" : "Grkov Winery"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 184307286,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "tower",
+    "name" : "Средновековна Кула",
+    "name:en" : "Medieval Tower"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 184313963,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "tower",
+    "name" : "Средновековна Кула",
+    "name:en" : "Medieval Tower"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 194459368,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "citywalls"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 194459369,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "citywalls"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 194459408,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "citywalls"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 194640359,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "castle"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 194640377,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Градиште",
+    "tourism" : "camp_site",
+    "name:en" : "Gradishte"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 199052359,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Стара базилика",
+    "name:en" : "Old Basilica"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 199052629,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Римска цистерна",
+    "name:en" : "Roman Cistern"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 199056987,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Старохристијанска базилика"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 199056988,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Римска Куќа"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 199056990,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Римска куќа"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 199056991,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Ранохристијанска базилика"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 201313929,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 208711817,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "11 Октомври 1941",
+    "tourism" : "museum",
+    "name:en" : "October the 11th, 1941"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 217467174,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Никола Мартиноски",
+    "tourism" : "gallery",
+    "name:en" : "Nikola Martinoski"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 217561610,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Музеј на НОВ",
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 217563724,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Спомен куќа Тоше Проески"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 217568679,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Македониум",
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 217836998,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins",
+    "name" : "Базилика \"Свети Еразмо\""
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 217849357,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "monastery",
+    "name" : "Манастир „Свети Наум",
+    "name:en" : "The Monastery of Saint Naum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 217928995,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Езерски Комплекс \"Метропол\"",
+    "tourism" : "yes"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 217931793,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Залив на Коските",
+    "tourism" : "museum",
+    "name:en" : "Bay of Bones"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 219684157,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Воено Одморалиште \"Генерал Васко Карангелевски\"",
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 219775654,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 222153861,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 223008200,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Кале"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 224254694,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Музеј на Илинденското востание и Крушевската Република",
+    "tourism" : "museum",
+    "name:en" : "Museum of the Ilinden Uprising and the Republic of Krushevo",
+    "wikipedia" : "mk:Музеј на Илинденското востание и Крушевската Република"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 226160304,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins",
+    "name" : "Roman Theater of Heraclea Lyncestis",
+    "name:en" : "Roman Theater of Heraclea Lyncestis",
+    "wikipedia" : "en:Heraclea Lyncestis"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 226161294,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins",
+    "name" : "Антички театар",
+    "name:en" : "ancient theater of Stobi"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 227215121,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 229632394,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "website" : "https://vici.org/vici/Idomenia",
+    "historic" : "archaeological_site",
+    "name" : "Isar-Marvinci",
+    "wikipedia" : "en:Idomenae"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 229773266,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Автокамп „Елешец“",
+    "tourism" : "camp_site",
+    "name:en" : "Eleshec Caravan Park"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 229930502,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Археолошки музеј на Македонија",
+    "tourism" : "museum",
+    "name:en" : "Archaeological Museum of Macedonia",
+    "wikipedia" : "mk:Археолошки музеј (Скопје)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 235728304,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 239422349,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Порта Македонија",
+    "name:en" : "Porta Macedonia",
+    "wikipedia" : "en:Porta Macedonia"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 240346454,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Градиште",
+    "name:en" : "Gradishte"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 240622723,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Стибера"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 242582497,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 243981081,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Стибера",
+    "name:en" : "Stibera",
+    "wikipedia" : "en:Stymbara (Macedonia)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 244812164,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Ел Калем",
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 256909737,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Планинарски дом Троуглеш",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 270986732,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Авто камп Свети Наум",
+    "tourism" : "camp_site",
+    "name:en" : "Auto Camp Sveti Naum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 295526114,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "yes",
+    "name" : "Безистен"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 334649006,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Антигона"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 402846960,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 402846961,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 403342892,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 403655101,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 403655102,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 403655113,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 411079115,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Камен мост",
+    "name:en" : "Stone Bridge"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 411111578,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "yes"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 411111584,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "yes"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 411111604,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "yes"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 411111605,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "yes"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 411111616,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "yes"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 414261893,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Трескавец",
+    "name:en" : "Treskavec"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 417361056,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Меморијален комплекс на паднатите борци на Револуцијата",
+    "wikipedia" : "mk:Меморијален комплекс на паднатите борци на револуцијата"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 417361065,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins",
+    "name" : "Исар",
+    "wikipedia" : "mk:Штипска тврдина"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 422287440,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "citywalls"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 424490169,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Скупи",
+    "name:en" : "Scupi",
+    "wikipedia" : "mk:Скупи"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 439347125,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Музеј Штип",
+    "tourism" : "museum",
+    "wikipedia" : "mk:Завод и музеј (Штип)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 439880867,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Железна Река",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 442592116,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "tourism" : "artwork",
+    "name:en" : "Burial Mound of the Undefeated"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 443072144,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Безистен Штип",
+    "tourism" : "museum",
+    "wikipedia" : "mk:Безистен (Штип)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 444884464,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "ЗОО Парк",
+    "tourism" : "zoo"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 445672540,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Бегов амам",
+    "tourism" : "museum",
+    "name:en" : "Bey's Hamam"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 445947375,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Гоце Делчев"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 453048240,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "monastery",
+    "name" : "св. Тројица",
+    "name:en" : "Sv. Trojitca"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 458318363,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Плажа Карач",
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 459434106,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 470931894,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 470931895,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 476196277,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "2C/2k",
+    "tourism" : "chalet"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 476221803,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Камник",
+    "tourism" : "wine_cellar"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 477021071,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "castle",
+    "name" : "Штакле",
+    "name:en" : "Castle Stakle"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 502848605,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins",
+    "name" : "Голема Базилика",
+    "name:en" : "Great Basilica"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 511459556,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Битолска Зоолошка Градина",
+    "tourism" : "zoo",
+    "wikipedia" : "en:Bitola Zoo"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 513644247,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "monastery",
+    "name" : "Света Недела",
+    "name:en" : "Holy Sunday"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 514257368,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Camping Rino 1",
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 514257369,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Camping Rino 2",
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 514513452,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Билазора",
+    "wikipedia" : "bg:Билазора"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 514513824,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 553070358,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Колонада"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 569594416,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Планинарски дом Широка",
+    "tourism" : "alpine_hut",
+    "name:en" : "Shiroka",
+    "wikipedia" : "mk:Планинарски дом „Широка“"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 573251504,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 602908072,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 602908073,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 602908074,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 603405553,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Roman & Ottoman Bathouse"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 603605134,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 603638574,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 625505115,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "building",
+    "name" : "Baptisterium"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 672181882,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "АС Струга",
+    "tourism" : "caravan_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 677981810,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Geoglif Sv. Nikole"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 679215630,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Александар Македонски"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 697770233,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Divono",
+    "tourism" : "caravan_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 698993277,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Bilazora - Water Reservoir"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 704079412,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Велешки Гемиџија"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 722996642,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "citywalls"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 722996644,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "citywalls"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 722996645,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "citywalls"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 722996646,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "citywalls"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 722996647,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "citywalls"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 722996648,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "citywalls"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 722996651,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "citywalls"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 722996652,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "citywalls"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 807724824,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Црквиште"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 808916278,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "battlefield",
+    "name" : "Масакр кај Карпалак",
+    "name:en" : "Karpalak massacre",
+    "wikipedia" : "mk:Масакр кај Карпалак"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 816604528,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "website" : "https://www.muzejprilep.org.mk/",
+    "name" : "Музеј на икони",
+    "tourism" : "gallery"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 816604533,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "tomb"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 821781063,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Гориче",
+    "name:en" : "Goriche",
+    "wikipedia" : "mk:Гориче (Белче)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 821905307,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Томе Темелкоски",
+    "tourism" : "alpine_hut",
+    "name:en" : "Tome Temelkoski"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 834714782,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Muzeu \"Dëshmorët e kombit\"",
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 838638808,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Спомен плоча - Ѓурѓејца"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 838931012,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 839150822,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Народен Музеј",
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 839150823,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Споменик на Народоослободителната борба"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 839150824,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Споменик „Александар Серафимов“"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 849621044,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Ловен Дом",
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 852322534,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Јанков Камен",
+    "tourism" : "alpine_hut",
+    "name:en" : "Jankov Kamen"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 858650998,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "Могила на непобедените",
+    "wikipedia" : "mk:Могила на непобедените"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 865119240,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "memorial"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 875859703,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Кале",
+    "name:en" : "Kale",
+    "wikipedia" : "mk:Кале (Зрзе)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 878965706,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 888421002,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Archaeological site of Mancevci, Early Christian Basilica 5 AC"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 894563394,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 894563395,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 894563396,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 896149100,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Леарница",
+    "tourism" : "museum",
+    "name:en" : "Foundry",
+    "wikipedia" : "mk:Леарница (Крушево)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 896167338,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 899302511,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Пешта",
+    "name:en" : "Peshta"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 899461223,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "castle",
+    "name" : "Марков Ѕид",
+    "name:en" : "Marko's Wall"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 899465453,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Мариовски Манастир",
+    "name:en" : "Monastery of Mariovo",
+    "wikipedia" : "mk:Манастир Св. Никола (Манастир)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 899472741,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Градот / Маркови Кули",
+    "name:en" : "Gradot / Markovi Kuli",
+    "wikipedia" : "mk:Градок - Маркови Кули"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 899479869,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Градиште",
+    "name:en" : "Gradishte"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 899479870,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Бабо",
+    "name:en" : "Babo"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 899481750,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Старо Бонче",
+    "name:en" : "Staro Bonche",
+    "wikipedia" : "mk:Старо Бонче (археолошко наоѓалиште)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 899481751,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Пелагон",
+    "name:en" : "Pelagon",
+    "wikipedia" : "mk:Пелагон (град)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 903328344,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Кула",
+    "name:en" : "Kula",
+    "wikipedia" : "mk:Кула (Македонски Брод)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 905876263,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "1. Бригада",
+    "tourism" : "museum",
+    "name:en" : "1 Бригада",
+    "wikipedia" : "mk:Прва македонска ударна бригада"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 906807150,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "tomb",
+    "name" : "Св. Петар",
+    "name:en" : "St. Peter"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 953825723,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 981842022,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "tomb"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 981848250,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Лешок",
+    "name:en" : "Leshok"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1000063414,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "wayside_chapel"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1038373030,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "tourism" : "camp_site"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1044325422,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Споменин на Слободата",
+    "name:en" : "Freedom Monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1050278253,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Девини Кули",
+    "name:en" : "Devini Kuli",
+    "wikipedia" : "mk:Девини Кули"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1054098604,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Св. Никола",
+    "name:en" : "St. Nicholas",
+    "wikipedia" : "mk:Св. Никола (Зрзе)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1054395729,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Спомен-дом Блаже Конески",
+    "tourism" : "museum",
+    "name:en" : "Blazhe Koneski Memorial House",
+    "wikipedia" : "mk:Спомен-дом „Блаже Конески“"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1054395740,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "wikipedia" : "mk:Дрениче (Небрегово)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1056658135,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1082325542,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "monument"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1083221710,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Negotines",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095945354,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095945355,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095945356,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095945357,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095945377,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095945383,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095945384,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095945385,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095945386,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950353,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950354,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950363,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950364,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950365,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950366,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950367,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950373,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950374,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950375,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950376,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950377,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950378,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950387,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950388,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950389,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950390,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950391,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950392,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950393,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950395,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950396,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950397,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950398,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950399,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950400,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950401,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950402,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950403,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950404,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950405,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950406,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950407,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950408,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950409,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950410,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095950411,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1095983365,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1096045450,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1096045451,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1096045452,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1096045453,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1096045455,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1096045466,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1096694957,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1102966574,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "memorial",
+    "name" : "19.12.1942"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1104772240,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "tourism" : "artwork"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1109661815,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins",
+    "name" : "Viničko Kale"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1126512716,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Куќата на Ѓошеви",
+    "name:en" : "House of Gjoshev",
+    "wikipedia" : "mk:Куќата на Ѓошеви (Варош)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1127758201,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "castle",
+    "name" : "Битолска Тврдина",
+    "name:en" : "Fortress of Bitola",
+    "wikipedia" : "mk:Битолска тврдина"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1136815836,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Мучеинци",
+    "name:en" : "Mucheinci",
+    "wikipedia" : "mk:Мучеинци (Лознани)"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1138726697,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1143766963,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Музеј на Битола",
+    "tourism" : "museum",
+    "name:en" : "Museum of Bitola",
+    "wikipedia" : "mk:Народен музеј - Битола"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1143774305,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Меморијален музеј Народен херој Кузман Јосифоски-Питу",
+    "tourism" : "museum",
+    "name:en" : "People's hero Kuzman Josifoski-Pitu Memorial museum",
+    "wikipedia" : "mk:Меморијален музеј „Кузман Јосифоски-Питу“"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1144895703,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "website" : "https://www.muzejprilep.org.mk",
+    "name" : "Музеј",
+    "tourism" : "museum",
+    "name:en" : "Museum",
+    "wikipedia" : "mk:Завод и музеј — Прилеп"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1146996488,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "monument",
+    "name" : "Св Кирил и Методи"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1152990867,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Goce Delchev Memorial House",
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1154135605,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "rail"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1154136835,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "rail"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1154138107,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "rail"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1167086240,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Bubullima",
+    "tourism" : "wilderness_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1167086244,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "tourism" : "wilderness_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1167086248,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Scaut Bashkimi",
+    "tourism" : "alpine_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1171007612,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Планинарски дом „Китка“",
+    "tourism" : "alpine_hut",
+    "name:en" : "Mountain lodge \"Kitka\""
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1174526198,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Дино парк Скопје",
+    "tourism" : "theme_park",
+    "name:en" : "Dinosaur Park Skopje"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1213617081,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "tourism" : "wilderness_hut"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1213902416,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1213902417,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1213902418,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1213902419,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "ruins"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1217195019,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Mémorial de Bitola",
+    "tourism" : "museum"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "way",
+  "id" : 1218569938,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Спомен-куќа на Татарчеви",
+    "tourism" : "museum",
+    "name:en" : "Tatarchev House",
+    "wikipedia" : "mk:Спомен-куќа_на_Татарчеви"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "relation",
+  "id" : 5360062,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "name" : "Куршумли-ан",
+    "tourism" : "museum",
+    "description" : "Concert venue"
+  },
+  "nodes" : null,
+  "members" : null
+}, {
+  "type" : "relation",
+  "id" : 15078753,
+  "lat" : 0.0,
+  "lon" : 0.0,
+  "tags" : {
+    "historic" : "archaeological_site",
+    "name" : "Куќата на Мантови",
+    "name:en" : "House of Mantov",
+    "wikipedia" : "mk:Куќата на Мантови (Варош)"
+  },
+  "nodes" : null,
+  "members" : null
+} ]
