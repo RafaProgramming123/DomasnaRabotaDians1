@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Data View</title>
+</head>
+<body>
+<h1>Data List</h1>
+<ul>
+  <li th:each="data : ${dataList}">
+    <span th:text="${data.id}">ID</span>:
+    <span th:text="${data.type}">Type</span>,
+    <span th:text="${data.lat}">Latitude</span>,
+    <span th:text="${data.lon}">Longitude</span>
+    <!-- Add more fields as needed -->
+  </li>
+</ul>
+</body>
+</html>
