@@ -66,20 +66,54 @@
     </div>
 </header>
 
+
+
 <div id="container">
     <div id="sidebar">
+        <form method="post" role="search" action="/map/search">
         <div>
-
+            <h1 style="text-align: left;">Име</h1>
             <input type="text" id="search-bar" placeholder="Search...">
 
+            <div class="dropdown-container">
+
+                <h2 style="text-align: left;">Локација</h2>
+
+                <select name="area" class="form-select" aria-label="Default select example" id="chooseLocation">
+                    <option value="" th:selected="${selectedArea == null || selectedArea.isEmpty()}">Локација</option>
+                    <th:block th:each="location : ${locations}">
+                        <option th:value="${location}" th:selected="${location.equals(selectedArea)}" th:text="${location}"></option>
+                    </th:block>
+                </select>
+
+
+            </div>
+
+            <div class="dropdown-container">
+                <h2 style="text-align: left;">Тип</h2>
+                <select name="type" class="form-select" aria-label="Default select example" id="chooseType">
+                    <option value="" th:selected="${selectedType == null || selectedType.isEmpty()}">Тип</option>
+                    <th:block th:each="type : ${type}">
+                        <option th:value="${type}" th:selected="${type.equals(selectedType)}" th:text="${type}"></option>
+                    </th:block>
+                </select>
+
+
+            </div>
         </div>
-        <div>
+        <div class="col-lg-3">
+            <fieldset>
+                <button class="main-button" id="redirectButton" type="submit"><i class="fa fa-search"></i> Пребарај</button>
+            </fieldset>
+
 
         </div>
+        </form>
     </div>
 
     <div id="map"></div>
 </div>
+
 
 
 <script src="vendor/jquery/jquery.min.js"></script>

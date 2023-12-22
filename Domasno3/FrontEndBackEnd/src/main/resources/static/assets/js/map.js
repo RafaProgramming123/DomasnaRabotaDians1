@@ -34,9 +34,13 @@ function searchMuseums() {
 
     filteredMuseums.forEach(museum => {
         const marker = L.marker([museum.lat, museum.lon]).addTo(map);
+      //  const buttonHTML = `<button onclick="buttonClicked('${museum.id}')">More Info</button>`;
         const popupContent = `<strong>${museum.name}</strong><br>${museum.description || ''}`;
         marker.bindPopup(popupContent);
+
     });
+
+
 }
 
 function clearMarkers() {
