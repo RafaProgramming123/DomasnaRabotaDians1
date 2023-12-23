@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <title>Dians Pocetna</title>
+
+
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/templatemo-plot-listing.css">
+    <link rel="stylesheet" href="assets/css/additional.css">
+    <link rel="stylesheet" href="assets/css/animated.css">
+    <link rel="stylesheet" href="assets/css/owl.css">
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+        }
+    </style>
+
+</head>
+
+<body>
+
+<div class="main-banner">
+    <div class="login-form">
+        <h1 style="margin-bottom: 10%">Најави се</h1>
+        <form th:action="@{/loginPost}" method="post">
+            <label for="username">Корисничко име:</label>
+            <input type="text" id="username" name="username" required>
+            <br>
+            <label for="password">Лозинка:</label>
+            <input type="password" id="password" name="password" required>
+            <br>
+            <button type="submit" style="margin-bottom: 10%">Зачувај</button>
+        </form>
+        <a style="color: white" href="/register" class="register-link">Регистрирај се</a>
+    </div>
+</div>
+
+<!-- Scripts -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/js/owl-carousel.js"></script>
+<script src="assets/js/animation.js"></script>
+<script src="assets/js/imagesloaded.js"></script>
+<script src="assets/js/custom.js"></script>
+
+</body>
+
+</html>
