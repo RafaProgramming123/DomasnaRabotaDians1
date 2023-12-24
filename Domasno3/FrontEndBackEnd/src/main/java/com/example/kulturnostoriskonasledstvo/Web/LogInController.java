@@ -36,5 +36,6 @@ public class LogInController {
         } else {
             return "redirect:/login?message=Please+make+an+account+!";
         }
+        //komanetar komentar
     }
 }
