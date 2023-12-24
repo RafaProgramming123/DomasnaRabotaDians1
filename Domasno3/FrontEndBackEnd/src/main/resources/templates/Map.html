@@ -29,7 +29,7 @@
 
         .logo {
             position: absolute;
-            left: -30px; /* Adjust the left position as needed */
+            left: 60px; /* Adjust the left position as needed */
             top: 15px; /* Adjust the top position as needed */
             display: flex;
             align-items: center;
@@ -86,8 +86,10 @@
     <div id="sidebar">
         <form method="post" role="search" action="/map/search">
         <div>
-            <h1 style="text-align: left;">Име</h1>
-            <input type="text" id="search-bar" placeholder="Search...">
+            <h2 style="text-align: left;">Име</h2>
+            <fieldset>
+                <input  id="search-bar" type="address" name="address"  class="searchText" placeholder="Име" autocomplete="on">
+            </fieldset>
 
             <div class="dropdown-container">
 

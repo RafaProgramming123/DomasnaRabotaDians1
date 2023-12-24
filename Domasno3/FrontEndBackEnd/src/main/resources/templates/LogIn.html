@@ -45,6 +45,10 @@
             <button type="submit" style="margin-bottom: 10%">Зачувај</button>
         </form>
         <a style="color: white" href="/register" class="register-link">Регистрирај се</a>
+        <!-- Display message if present -->
+        <div th:if="${message}" style="margin-top: 15px;">
+            <p th:text="${message}" style="color: red !important;"></p>
+        </div>
     </div>
 </div>
 

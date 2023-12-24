@@ -31,21 +31,6 @@ public class MapController {
         this.savedPlacesService = savedPlacesService;
     }
 
-//    @GetMapping
-//    public String showMap(@RequestParam(required = false) String area, Model model) {
-//        try {
-//            List<PlaceDetail> filteredDetails = (area != null && !area.isEmpty())
-//                    ? jsonDbService.getPlaceDetailsByArea(area)
-//                    : jsonDbService.getAllPlaceDetails();
-//
-//            String museumsJson = objectMapper.writeValueAsString(filteredDetails);
-//            model.addAttribute("museumsJson", museumsJson);
-//            System.out.println(museumsJson);
-//        } catch (Exception e) {
-//            e.printStackTrace(); // handle the exception appropriately
-//        }
-//        return "map";
-//    }
     @GetMapping
     public String showMap(
             @RequestParam(required = false) String area,
