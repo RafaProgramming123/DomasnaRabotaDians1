@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <title>Dians Pocetna</title>
+
+
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/templatemo-plot-listing.css">
+    <link rel="stylesheet" href="assets/css/additional.css">
+    <link rel="stylesheet" href="assets/css/animated.css">
+    <link rel="stylesheet" href="assets/css/owl.css">
+
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            margin: 0;
+            overflow: hidden;
+            height: 100vh;
+        }
+        .logo img {
+            max-width: 10%; /* Ensure the logo doesn't exceed its container */
+        }
+
+        .logo {
+            position: absolute;
+            left: -30px; /* Adjust the left position as needed */
+            top: 15px; /* Adjust the top position as needed */
+            display: flex;
+            align-items: center;
+        }
+
+
+    </style>
+
+</head>
+
+<body>
+
+
+<div id="js-preloader" class="js-preloader">
+    <div class="preloader-inner">
+        <span class="dot"></span>
+        <div class="dots">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+</div>
+
+
+
+<header class="header-area header-sticky wow slideInDown" data-wow-duration="0.75s" data-wow-delay="0s">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav class="main-nav">
+                    <div class="logo">
+                        <img src="assets/images/Art_00000.png" alt="Logo">
+                    </div>
+                    <ul class="nav">
+                        <li><a href="/home">Пребарај</a></li>
+                        <li><a href="/map">Мапа</a></li>
+                        <li><a href="/fav">Зачувано</a></li>
+                        <li><a href="/contact">За нас</a></li>
+                        <li><div><a href="/login " style="color: white !important;"><i class="nana"></i> Најави се</a></div></li>
+                    </ul>
+                    <a class='menu-trigger'>
+                        <span>Menu</span>
+                    </a>
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+<div id="container">
+    <div id="sidebar">
+        <form method="post" role="search" action="/map/search">
+        <div>
+            <h1 style="text-align: left;">Име</h1>
+            <input type="text" id="search-bar" placeholder="Search...">
+
+            <div class="dropdown-container">
+
+                <h2 style="text-align: left;">Локација</h2>
+
+                <select name="area" class="form-select" aria-label="Default select example" id="chooseLocation">
+                    <option value="" th:selected="${selectedArea == null || selectedArea.isEmpty()}">Локација</option>
+                    <th:block th:each="location : ${locations}">
+                        <option th:value="${location}" th:selected="${location.equals(selectedArea)}" th:text="${location}"></option>
+                    </th:block>
+                </select>
+
+
+            </div>
+
+            <div class="dropdown-container">
+                <h2 style="text-align: left;">Тип</h2>
+                <select name="type" class="form-select" aria-label="Default select example" id="chooseType">
+                    <option value="" th:selected="${selectedType == null || selectedType.isEmpty()}">Тип</option>
+                    <th:block th:each="type : ${type}">
+                        <option th:value="${type}" th:selected="${type.equals(selectedType)}" th:text="${type}"></option>
+                    </th:block>
+                </select>
+
+
+            </div>
+        </div>
+        <div class="col-lg-3">
+            <fieldset>
+                <button class="main-button" id="redirectButton" type="submit"><i class="fa fa-search"></i> Пребарај</button>
+            </fieldset>
+        </div>
+        </form>
+
+
+
+        <form th:action="@{/map/addFavorite}" method="post">
+            <div class="dropdown-container">
+                <h2 style="text-align: left;">Додади</h2>
+                <select name="placeId" class="form-select" aria-label="Default select example" id="chooseName">
+                    <option value="" th:selected="${selectedType == null || selectedType.isEmpty()}">Додади</option>
+                    <th:block th:each="place : ${names}">
+                        <!-- Check if getTags() and getTags().getName() are not null -->
+                        <th:block th:if="${place.getTags() != null and place.getTags().getName() != null}">
+                            <option th:value="${place.id}"
+                                    th:selected="${type.equals(selectedType)}"
+                                    th:text="${place.getTags().getName()}"></option>
+                        </th:block>
+                    </th:block>
+                </select>
+                <!-- Add a submit button to the form -->
+                <button type="submit" class="main-button">Submit</button>
+            </div>
+        </form>
+
+    </div>
+    <div id="map"></div>
+</div>
+
+
+
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/js/owl-carousel.js"></script>
+<script src="assets/js/animation.js"></script>
+<script src="assets/js/imagesloaded.js"></script>
+<script src="assets/js/custom.js"></script>
+
+<script th:inline="javascript">
+    /*<![CDATA[*/
+    let allMuseums = /*[[${museumsJson}]]*/ [];
+    /*]]>*/
+</script>
+<script src="assets/js/map.js"></script>
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</body>
+
+</html>

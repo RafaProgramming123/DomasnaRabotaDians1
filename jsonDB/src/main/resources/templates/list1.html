@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Data List</title>
+</head>
+<body>
+
+<h2>Data List</h2>
+
+<table border="1">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Type</th>
+        <th>Latitude</th>
+        <th>Longitude</th>
+        <th>Name</th>
+        <th>Name (English)</th>
+        <th>Tourism</th>
+        <th>Wikipedia</th>
+        <th>Nodes</th>
+        <th>Members</th>
+        <!-- Add more columns as needed -->
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="dataJson : ${dataList}">
+        <td th:text="${dataJson.id}"></td>
+        <td th:text="${dataJson.type}"></td>
+        <td th:text="${dataJson.lat}"></td>
+        <td th:text="${dataJson.lon}"></td>
+        <td th:text="${dataJson.tags.name}"></td>
+        <td th:text="${dataJson.tags.nameEn}"></td>
+        <td th:text="${dataJson.tags.tourism}"></td>
+        <td th:text="${dataJson.tags.wikipedia}"></td>
+        <td th:text="${dataJson.nodes}"></td>
+        <td th:text="${dataJson.members}"></td>
+        <!-- Add more cells as needed -->
+    </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
